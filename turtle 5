@@ -1,0 +1,66 @@
+from turtle import Turtle, Screen
+screen = Screen()
+tartaruga = Turtle()
+
+# Esta e a funcao chamada ao se clicar
+def clique(x,y):
+    if 0 < tartaruga.xcor() < 150 and 0 < tartaruga.ycor() < 150:
+        print("Nao posso sair")
+    else:
+        print("Estou dentro dos quadrados")
+    tartaruga.goto(x,y)
+    #turtle.write()
+    #turtle.clear()
+    
+#quadrado
+tartaruga.color("Green", "Brown")
+#tartaruga.begin_fill()
+#tartaruga.end_fill()
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+
+tartaruga.color("Green", "Brown")
+#tartaruga.begin_fill()
+#tartaruga.end_fill()
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+
+tartaruga.color("Green", "Brown")
+#tartaruga.begin_fill()
+#tartaruga.end_fill()
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+
+tartaruga.color("Green", "Brown")
+#tartaruga.begin_fill()
+#tartaruga.end_fill()
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+tartaruga.left(90)
+tartaruga.fd(150)
+
+tartaruga.penup()
+tartaruga.goto(-10, -10)
+
+#vamos setar um handler para clique, note que ele retorna a posicao x e y do mouse
+screen.onclick (clique)
+screen.listen()
+screen.mainloop()
