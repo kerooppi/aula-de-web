@@ -23,12 +23,20 @@
                     <option value="PR">Paraná</option>
                 </select>
 
-                <label for="curso"> Informe seu curso: </label>
-                <input type="radio" name="curso" id="c1" value="adm"><label>ADM</label>
-                <input type="radio" name="curso" id="c2" value="agro"><label>AGRO</label>
-                <input type="radio" name="curso" id="c3" value="info"><label>INFO</label>
+                <label>Informe seu curso: </label>
+                <input type="radio" name="curso" id="c1" value="adm"><label for="c1">ADM</label>
+                <input type="radio" name="curso" id="c2" value="agro"><label for="c2">AGRO</label>
+                <input type="radio" name="curso" id="c3" value="info"><label for="c3">INFO</label>
 
-                <input type="submit" name="enviar" id="enviar" value="Enviar dados"
+                <label>Selecione suas matérias preferidas: </label>
+                <input type="checkbox" name="materia[]" id="m1" value="matematica"><label for="m1">Matemática</label>
+                <input type="checkbox" name="materia[]" id="m2" value="artes"><label for="m2">Artes</label>
+                <input type="checkbox" name="materia[]" id="m3" value="geografia"><label for="m3">Geografia</label>
+                <input type="checkbox" name="materia[]" id="m4" value="portugues"><label for="m4">Português</label>
+
+                <input type="checkbox" name="acordo" id="acordo" value="Y"><label for="acordo">Li e estou de acordo</label>
+                <label for="">Deixe seu comentário: </label>
+                <textarea name="" id=""></textarea>
+                <input type="submit" name="enviar" id="enviar" value="Enviar dados">
             </form>
 </html>
-
