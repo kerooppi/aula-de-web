@@ -6,22 +6,29 @@
     </head>
     <body>
         <form action="processa.php" method="get">
-            <!--
-            action: para especificar qual pagina recebera os dados do form
-            method: forma de envio dos dados. Duas maneiras
-                * get: envio dos dados pela propria URL
-                * post: envio dos dados pela conexao HTTP
-            --> 
+            
                 <label for="nome_cliente">Insira seu nome: </label>
                 <input type="text" name="nome_cliente" id="nome_cliente">
-            <!--
-                name: tipo nome de variavel, sera usado pelo script de processamento
-                id: identificaçao unica do componente
-            -->
-            <label>Data nascimento: </label>
-            <input type="date" name="data_nasc" id="data_nasc">
-            <label>Email: </label>
-            <input type="email" name="email" id="email">
-            <input type="submit" name="enviar" id="enviar" value="Enviar dado">
-        </form>
+
+                <label for="data_nasc">Data de nascimento: </label>
+                <input type="date" name="data_nasc" id="data=nasc">
+
+                <label for="email_cadastro">E-mail de cadastro: </label>
+                <input type="text" name="email_cadastro" id="email_cadastro">
+
+                <label for="uf">UF: </label>
+                <select name="uf" id="uf">
+                    <option value="RS">Rio Grande do Sul</option>
+                    <option value="SC">Santa Catarina</option>
+                    <option value="PR">Paraná</option>
+                </select>
+
+                <label for="curso"> Informe seu curso: </label>
+                <input type="radio" name="curso" id="c1" value="adm"><label>ADM</label>
+                <input type="radio" name="curso" id="c2" value="agro"><label>AGRO</label>
+                <input type="radio" name="curso" id="c3" value="info"><label>INFO</label>
+
+                <input type="submit" name="enviar" id="enviar" value="Enviar dados"
+            </form>
 </html>
+
