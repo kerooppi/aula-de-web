@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Quem venceria essa briga?</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Quem venceria essa briga?</h1>
+        <h2>Condições: não são permitidas armas, só a própria força.</h2>
+        <form action="processa.php" method="get">
+            <label for="">Coloque seu nome: </label>
+            <input type="text" name="nome" id="nome">
+                <h3>Edward Cullen vs Stefan Salvatore</h3> 
+
+                <input type="radio" name="personagem" id="op1" value="EC"><label for="op1">Edward Cullen</label>
+                <input type="radio" name="personagem" id="op2" value="SS"><label for="op2">Stefan Salvatore</label>
+
+                <h3>Hardin Scott vs Nate Jacobs</h3> 
+
+                <input type="radio" name="personagem" id="op3" value="HS"><label for="op3">Hardin Scott</label>
+                <input type="radio" name="personagem" id="op4" value="NJ"><label for="op4">Nate Jacobs</label>
+
+                <h3>Cher Horowitz vs Regina George</h3> 
+
+                <input type="radio" name="personagem" id="op5" value="CH"><label for="op5">Cher Horowitz</label>
+                <input type="radio" name="personagem" id="op6" value="RG"><label for="op6">Regina George</label>
+
+                <h3>Anabelle vs Chucky</h3> 
+
+                <input type="radio" name="personagem" id="op7" value="A"><label for="op7">Anabelle</label>
+                <input type="radio" name="personagem" id="op8" value="C"><label for="op8">Chucky</label>
+
+                <h3>Edward Cullen vs Stefan Salvatore</h3> 
+
+                <input type="radio" name="personagem" id="op1" value="EC"><label for="op1">Edward Cullen</label>
+                <input type="radio" name="personagem" id="op2" value="SS"><label for="op2">Stefan Salvatore</label>
+                <br>
+                <br>
+                <input type="submit" name="enviar" id="enviar" value="Enviar dados">
+            </form>
+</html>
