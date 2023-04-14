@@ -1,42 +1,56 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
-        <title>Exemplo de formulário</title>
+        <title>ESPORTES</title>
         <meta charset="utf-8">
     </head>
     <body>
+        <center> <h1>Qual seu esporte favorito?</h1> </center>
+        <center><h2>Vote!</h2></center>
         <form action="processa.php" method="get">
-            
-                <label for="nome_cliente">Insira seu nome: </label>
-                <input type="text" name="nome_cliente" id="nome_cliente">
-
-                <label for="data_nasc">Data de nascimento: </label>
-                <input type="date" name="data_nasc" id="data=nasc">
-
-                <label for="email_cadastro">E-mail de cadastro: </label>
-                <input type="text" name="email_cadastro" id="email_cadastro">
-
-                <label for="uf">UF: </label>
-                <select name="uf" id="uf">
-                    <option value="RS">Rio Grande do Sul</option>
-                    <option value="SC">Santa Catarina</option>
-                    <option value="PR">Paraná</option>
-                </select>
-
-                <label>Informe seu curso: </label>
+                <br>
+                <br>
+                <label>• Informe seu curso: </label>
                 <input type="radio" name="curso" id="c1" value="adm"><label for="c1">ADM</label>
                 <input type="radio" name="curso" id="c2" value="agro"><label for="c2">AGRO</label>
                 <input type="radio" name="curso" id="c3" value="info"><label for="c3">INFO</label>
+                <br>
+                <br>
+                <label for="data_nasc">• Data de nascimento: </label>
+                <input type="date" name="data_nasc" id="data=nasc">
+                <br>
+                <br>
+                <label>• Você gostaria de participar dos treinos?</label>
+                <input type="radio" name="s" id="sim" value="sim"><label for="sim">SIM</label>
+                <input type="radio" name="n" id="nao" value="nao"><label for="nao">NÃO</label>
+                <br>
+                <br>
+                <label>• Selecione seu esporte preferido: </label>
+                <input type="radio" name="esporte[]" id="e1" value="futsal/futebol"><label for="e1">Futsal/Futebol</label>
+                <input type="radio" name="esporte[]" id="e2" value="volei"><label for="e2">Vôlei</label>
+                <input type="radio" name="esporte[]" id="e3" value="handebol"><label for="e3">Handebol</label>
+                <input type="radio" name="esporte[]" id="e4" value="basquete"><label for="e4">Basquete</label>
+                <input type="radio" name="esporte[]" id="e5" value="atletismo"><label for="e5">Atletismo</label>
+                <input type="radio" name="esporte[]" id="e6" value="natacao"><label for="e6">Natação</label>
+                <br>
+                <input type="radio" name="esporte[]" id="e7" value="outro"><label for="e7">Outro? Qual?
+                </label>
 
-                <label>Selecione suas matérias preferidas: </label>
-                <input type="checkbox" name="materia[]" id="m1" value="matematica"><label for="m1">Matemática</label>
-                <input type="checkbox" name="materia[]" id="m2" value="artes"><label for="m2">Artes</label>
-                <input type="checkbox" name="materia[]" id="m3" value="geografia"><label for="m3">Geografia</label>
-                <input type="checkbox" name="materia[]" id="m4" value="portugues"><label for="m4">Português</label>
+                <input type="text" name="outro" id="outro">
 
-                <input type="checkbox" name="acordo" id="acordo" value="Y"><label for="acordo">Li e estou de acordo</label>
-                <label for="">Deixe seu comentário: </label>
-                <textarea name="" id=""></textarea>
                 <input type="submit" name="enviar" id="enviar" value="Enviar dados">
+
+                
             </form>
+            <table border ="1">
+                <br>
+                <br>
+                <caption>ESPORTES PREFERIDOS</caption>
+                <thead>
+                    <tr><th>Opções</th><th>Futsal/Futebol</th><th>Vôlei</th><th>Handebol</th><th>Basquete</th><th>Atletismo</th><th>Natação</th><th>Outros</th></tr>
+                </thead>
+                <tfoot>
+                    <tr><th>Total:</th><th> </th><th> </th><th> </th><th> </th><th> </th><th> </th><th> </th></tr>
+                </tfoot>
+                </table> 
 </html>
