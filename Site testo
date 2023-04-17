@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+    <head>
+        <title>CELULARES</title>
+        <meta charset = "utf-8">
+        <link rel = "icon" type ="png"
+        href="data:image/png;base64,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">
+    </head>
+    <body> 
+    <div id="produtos">
+        <ul>
+        <div class="Samsung"></div>
+        <img scr="" alt="imagem do celular">
+            <li>celular SAMSUNG</li>
+            <li>galaxy S22 (256GB)</li>
+            <li>R$5.399,90</li>
+            <li>link</li>
+        </ul>
+
+        <ul>
+        <div class="Iphone"></div>
+        <img scr="" alt="imagem do celular">
+            <li>celular IPHONE</li>
+            <li>14 pro max(256GB)</li>
+            <li>R$10,450,90</li>
+            <li>link</li>
+        </ul>
+
+        <ul>
+        <div class="Xiaomi"></div>
+        <img scr="" alt="imagem do celular">
+            <li>celular XIAOMI</li>
+            <li>POCO X4 pro(256GB)</li>
+            <li>R$3,699,50</li>
+            <li>link</li>
+        </ul>
+
+        <ul>
+            <div class="Motorola"></div>
+            <img scr="" alt="imagem do celular">
+            <li>celular MOTOROLA</li>
+            <li>Edge 30 ultra(256GB)</li>
+            <li>R$5,249,90</li>
+            <li>link</li>
+        </ul>
+    </div>
+
+    </body>
+</html>
