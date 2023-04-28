@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+    <head>
+        <title></title>
+        <meta charset = "utf-8">
+        <link rel = "icon" type ="png"
+        href="https://imagensemoldes.com.br/wp-content/uploads/2021/01/Desenho-de-Gato-Arte-Almofadas-Pet-1024x1024.jpg">
+    </head>
+    <body> 
+           <!--background-color: #B9B9B9;--> 
+        
+        <center> <h1>Curiosidades sobre gatos</h1> </center>
+        <center><h2>tudo o que você precisa saber sobre o mundo felino, antes de ter o seu!</h2></center>
+        <center><img src = "https://www.premierpet.com.br/wp-content/uploads/2020/10/banner-gato-1-1.jpg" alt = "imagem do miau"></center>
+        <br>
+        <p> </p>
+    </body>
+</html>
