@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Casa dos doces</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Casa dos doces</h1>
+        <h2>Tabela de preços:</h2>
+    </form>
+    <table border ="1">
+        <br>
+        <br>
+        <caption></caption>
+        <thead>
+            <tr><th>Bolo comum:</th><th>Bolo de chocolate</th><th>Bolo de laranja</th><th>Bolo de cenoura com brigadeiro</th>
+        </thead>
+        <tfoot>
+            <tr><th>Preços:</th><th>R$ 10</th><th>R$ 15</th><th>R$ 20</th><tr>     
+        </tfoot>
+        </table> 
+        <thead>
+        </form>
+        <table border ="1">
+            <br>
+            <br>
+            <caption></caption>
+            <tr><th>Donuts e Cupcakes:</th><th>Donuts de coco</th><th>Cupcake Red Velvet</th><th>Donuts de morango</th>
+        </thead>
+        <tfoot>
+            <tr><th>Preços:</th><th>R$ 12</th><th>R$ 23</th><th>R$ 12</th><tr>     
+        </tfoot>
+        </table> 
+</html>
