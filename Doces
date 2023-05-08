@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Casa dos doces</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Casa dos doces</h1>
+        <h2>Tabela de preços:</h2>
+    </form>
+    <table border ="1">
+        <br>
+        <br>
+        <caption></caption>
+        <thead>
+            <tr><th>Doces:</th><th>Preços:</th>
+            <tr><th>Bolo de baunilha: </th><th>R$10,00</th>
+            <tr><th>Bolo de chocolate: </th><th>R$8,00</th>
+            <tr><th>Bolo de laranja: </th><th>R$10,00</th>
+            <tr><th>Bolo de cenoura com brigadeiro: </th><th>R$15,00</th>
+            <tr><th>Donuts: </th><th>R$10,00</th>
+            <tr><th>Cupcake: </th><th>R$6,00</th>
+        </thead>
+        <tfoot>
+        </html>
+    </table>
+    <a href="file:///C:/Users/Aluno/Desktop/pedido.html">Faça o seu pedido.</a>  
+    
+    <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Pedidos</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Faça seu pedido:</h1>
+        <form action="processa.php" method="get"></form>
+        <label for="">Nome: </label>
+        <input type="text" name="nome" id="nome">
+        <label for="">Telefone para contato: </label>
+        <input type="text" name="nome" id="nome">
+        <label for="">Endereço: </label>
+        <input type="text" name="nome" id="nome">
+        <label for="Pagamento">Forma de pagamento</label>
+        <input type="radio" name="" id="op1" value="C"><label for="op1">Cartão de crédito</label>
+        <label for="Sabores de bolo">Sabores de bolo</label>
+        <option value="Santander">Santander</option>
+        <option value="Caixa">Caixa</option>
+        <option value="Bradesco">Bradesco</option>
+        <br>
+        <br>
+        <label for="Sabores de bolo">Sabores de bolo</label>
+        <select id="Bolos" name="Bolos">
+            <option value="Baunilha">Baunilha</option>
+            <option value="Chocolate">Chocolate</option>
+            <option value="Laranja">Laranja</option>
+            <option value="Cenoura">Cenoura</option>
+        </select> 
+        <br>
+        <br>
+        <label for="Sabores de donuts">Sabores de donuts</label>
+        <select id="Donuts" name="Donuts">
+            <option value="Brigadeiro">Brigadeiro</option>
+            <option value="Ninho">Ninho</option>
+            <option value="Chocolate2">Chocolate</option>
+            <option value="Morango">Morango</option>
+        </select>
+        <br>
+        <br>
+        <label for="Sabores de cupcake">Sabores de cupcake</label>
+        <select id="Cupcake" name="Cupcake">
+            <option value="Red Velvet">Red Velvet</option>
+            <option value="Brigadeiro2">Brigadeiro</option>
+            <option value="Paçoca">Paçoca</option>
+            <option value="Beijinho">Beijinho</option>
+        </select>
