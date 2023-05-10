@@ -7,34 +7,31 @@
         href="https://imagensemoldes.com.br/wp-content/uploads/2021/01/Desenho-de-Gato-Arte-Almofadas-Pet-1024x1024.jpg">
     </head>
     <body> 
-           <!--background-color: #B9B9B9;--> 
         
-        <h1>LOJA DE MIAU</h1>
-        <h2>confira abaixo nossa linha de produtos para seu gatinho</h2>
-        <img src = "https://www.premierpet.com.br/wp-content/uploads/2020/10/banner-gato-1-1.jpg" alt = "imagem do miau"><
+        <h1>LOJA PARA GATOS</h1>
+        <h2>Confira abaixo nossa linha de produtos para seu gatinho</h2>
+        <img src = "https://media.istockphoto.com/id/93217588/pt/foto/grupo-de-gatos-em-uma-linha.jpg?s=612x612&w=0&k=20&c=xZy-KNHLow1P0KmZZVF6q5SYuM9jvgy51iv0IkZ2_ZY=" alt = "imagem do miau">
        </form>
             <table border ="1">
                 <br>
                 <br>
                 <thead>
-                    <tr><th>Produto</th></tr>
-                        <tr><th>Ração</th></tr>
-                        <tr><th>Brinquedos</th></tr>
-                        <tr><th>Escova</th></tr>
-                        <tr><th>Potinhos</th></tr>
-                        <tr><th>Coleira</th></tr>
-                        <tr><th>Caixa com areia</th></tr>
+                    <tr><th>PRODUTO</th><th>Potinhos</th><th>Caminha</th><th>Ração</th><th>Caixa com areia</th><th>Coleira</th><th>Brinquedos</th><th>Escova</th><th>Arranhador</th></tr>
                 </thead>
-                <thead>
-                    <tr><th>Preço</th></tr>
-                    <tr><th>R$100,00</th>
-                    <tr><th>R$90,00</th></tr>
-                    <tr><th>R$19,99</th></tr>
-                    <tr><th>R$8,99</th>
-                    <tr><th>R$5,00</th></tr>
-                    <tr><th>R$9,99</th></tr>
-                    <tr><th>R$30,00</th></tr>
-                </thead>
+                <tfoot>
+                    <tr><th>PREÇO</th><th>R$5,99</th><th>R$100,00</th><th>R$89,99</th><th>R$50,00</th><th>R$9,99</th><th>R$15,00</th><th>R$10,00</th><th>R$149,99</th></tr>
+                </tfoot>
                 </table> 
-    </body>
+                <br>
+                <br>
+        <img src = "https://img.freepik.com/vetores-premium/conjunto-de-icones-de-pet-shop-acessorios-para-gatos-ilustracao-racao-brinquedos-tigela-coleira-produtos-para-pet-shop-ilustracao-vetorial-em-fundo-branco_257455-770.jpg" alt = "produtos">
+        <br>
+        <br>
+        <h3>Gatinhos no cinema!</h3>
+        <a href="nome arquivo filmes.html">Clique aqui para descobrir filmes com protagonistas bigodudos!</a>
+        <br>
+        <h3>Conheça mais sobre os felinos:</h3>
+        <a href="nome arquivo raças.html">TOP 6 raças</a>
+
+        </body>
 </html>
