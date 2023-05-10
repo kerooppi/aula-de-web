@@ -41,12 +41,22 @@
         <input type="text" name="nome" id="nome">
         <label for="">Endereço: </label>
         <input type="text" name="nome" id="nome">
-        <label for="Pagamento">Forma de pagamento</label>
-        <input type="radio" name="" id="op1" value="C"><label for="op1">Cartão de crédito</label>
-        <label for="Sabores de bolo">Sabores de bolo</label>
-        <option value="Santander">Santander</option>
-        <option value="Caixa">Caixa</option>
-        <option value="Bradesco">Bradesco</option>
+        <br>
+        <br>
+        <label> Forma de pagamento: </label>
+            <input type="radio" name="pagamento" id="op1" value="P"><label for="op1">Pix</label>
+            <input type="radio" name="pagamento" id="op3" value="c"><label for="op3">Cartão de Débito</label>
+            <input type="radio" name="pagamento" id="op4" value="cc"><label for="op4">Cartão de Crédito:</label>
+            <label for="Cartão"></label>
+        <select id="banco" name="Banco">
+            <option value="Santander">Santander</option>
+            <option value="Caixa">Caixa</option>
+            <option value="Bradesco">Bradesco</option>
+            <option value="Banrisul">Banrisul</option>
+            <input type="radio" name="pagamento" id="op2" value="d"><label for="op2">Dinheiro;</label>
+            <label for="">Troco:</label>
+                <input type="text" name="dinheiro" id="Dinheiro">
+        </select> 
         <br>
         <br>
         <label for="Sabores de bolo">Sabores de bolo</label>
@@ -74,3 +84,6 @@
             <option value="Paçoca">Paçoca</option>
             <option value="Beijinho">Beijinho</option>
         </select>
+        <br>
+        <br>
+        <a href="file:///C:/Users/Aluno/Desktop/pedidofinal.html">Finalizar pedido.</a>
