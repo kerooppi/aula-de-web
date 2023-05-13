@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Casa dos doces</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <center><h1>Casa dos doces</h1></center>
+        <center><h2>Cardápio:</h2></center>
+    </form>
+    <center><table border ="1"></center>
+        <caption></caption>
+        <center><thead></center>
+            <tr><th>Doces:</th><th>Preços:</th>
+            <tr><th>Bolo inteiro: </th><th>R$80,00</th>
+            <tr><th>Fatia de bolo: </th><th>R$8,00</th>
+            <tr><th>Donuts: </th><th>R$10,00</th>
+            <tr><th>Cupcake: </th><th>R$6,00</th>
+            <tr><th>Macaron: </th><th>R$5,50</th>
+            <tr><th>Cinnamon Rolls: </th><th>R$15,00</th>
+            <tr><th>Croissant: </th><th>R$5,00</th>
+            <tr><th>Pudim grande: </th><th>R$25,00</th>
+            <tr><th>Pudim pequeno: </th><th>R$5,50</th>
+        <center></thead></center>
+        <tfoot>
+        </html>
+    <center></table></center>
+    <br>
+    <br>
+    <center><a href="file:///C:/Desktop/pedido.html">Faça o seu pedido.</a></center>
+    
+    SITE 2
+     <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Pedidos</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Faça seu pedido:</h1>
+        <form action="processa.php" method="get"></form>
+        <label for="">Nome: </label>
+        <input type="text" name="nome" id="nome">
+        <label for="">Telefone para contato: </label>
+        <input type="text" name="nome" id="nome">
+        <label for="">Endereço: </label>
+        <input type="text" name="nome" id="nome">
+        <br>
+        <br>
+        <label> Forma de pagamento: </label>
+            <input type="radio" name="pagamento" id="op1" value="P"><label for="op1">Pix</label>
+            <input type="radio" name="pagamento" id="op3" value="c"><label for="op3">Cartão de Débito</label>
+            <input type="radio" name="pagamento" id="op4" value="cc"><label for="op4">Cartão de Crédito:</label>
+            <label for="Cartão"></label>
+        <select id="banco" name="Banco">
+            <option value="Santander">Santander</option>
+            <option value="Caixa">Caixa</option>
+            <option value="Bradesco">Bradesco</option>
+            <option value="Banrisul">Banrisul</option>
+            <input type="radio" name="pagamento" id="op2" value="d"><label for="op2">Dinheiro;</label>
+            <label for="">Troco:</label>
+                <input type="text" name="dinheiro" id="Dinheiro">
+        </select> 
+        <br>
+        <br>
+        <input type="checkbox" name="bolo" id="op1" value="B"><label for="op1">Bolo inteiro: </label>
+        <br>
+        <br>
+        <label for="Sabores de bolo">Sabores:</label>
+            <select id="Sabores" name="Sabores">
+                <option value="Chocolate">Chocolate</option>
+                <option value="Cenoura">Cenoura</option>
+                <option value="Baunilha">Baunilha</option>
+                <option value="Laranja">Laranja</option>
+        </select>
+        <br>
+        <br>
+        <input type="checkbox" name="bolo2" id="op2" value="B"><label for="op2">Fatia de bolo: </label>
+        <br>
+        <br>
+        <label for="Sabores de bolo">Sabores:</label>
+            <select id="Sabores" name="Sabores">
+                <option value="Chocolate">Chocolate</option>
+                <option value="Cenoura">Cenoura</option>
+                <option value="Baunilha">Baunilha</option>
+                <option value="Laranja">Laranja</option>
+        </select>
+        <br>
+        <br>
+        <input type="checkbox" name="donuts" id="op3" value="D"><label for="op3">Donuts: </label>
+        <br>
+        <br>
+        <label for="Cobertura de donuts">Cobertura:</label>
+            <select id="Cobertura de donuts" name="Cobertura">
+                <option value="Brigadeiro">Brigadeiro tradicional</option>
+                <option value="Beijinho">Beijinho</option>
+                <option value="Morango">Morango</option>
+                <option value="Ninho">Ninho</option>
+                <option value="Red Velvet">Red Velvet</option>
+        </select>
+        <br>
+        <br>
+        <input type="checkbox" name="cupcake" id="op4" value="C"><label for="op4">Cupcake: </label>
+        <br>
+        <br>
+        <label for="Cobertura de cupcake">Cobertura:</label>
+            <select id="Cobertura de cupcake" name="Cobertura">
+                <option value="Nutella">Nutella</option>
+                <option value="Limão">Limão</option>
+                <option value="Chocolate">Chocolate</option>
+                <option value="Ninho">Ninho</option>
+                <option value="Red Velvet">Red Velvet</option>
+        </select>
+    <br>
+    <br>
+    <input type="checkbox" name="macaron" id="op5" value="M"><label for="op5">Macaron: </label>
+    <br>
+    <br>
+    <label for="Sabores de macaron">Cobertura:</label>
+        <select id="Sabores de macaron" name="Sabores">
+            <option value="Nutella">Nutella</option>
+            <option value="Limão">Limão</option>
+            <option value="Chocolate">Chocolate</option>
+            <option value="Ninho">Ninho</option>
+            <option value="Red Velvet">Red Velvet</option>
+    </select>
+<br>
+<br>
+<input type="checkbox" name="cinnamon rolls" id="op6" value="CR"><label for="op6">Cinnamon Rolls: </label>
+</select>
+<br>
+<br>
+<input type="checkbox" name="croissant" id="op7" value="C"><label for="op7">Croissant: </label>
+</select>
+<br>
+<br>
+<input type="checkbox" name="pudim grande" id="op8" value="PG"><label for="op8">Pudim grande: </label>
+</select>
+<br>
+<br>
+<input type="checkbox" name="pudim pequeno" id="op9" value="PP"><label for="op9">Pudim pequeno: </label>
+</select>
+        <br>
+        <br>
+        <a href="file:///C:/Users/Aluno/Desktop/pedidofinal.html">Finalizar pedido.</a>
+        
+        SITE 3
+        <!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+    <title>Pedidos</title>
+        
+ <h1><center>Pedido finalizado!</center></h1>
+ <h2><center>Agradecemos a preferência, volte sempre :)</center></h2>
+ <meta charset="utf-8">
+ <href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.magazineluiza.com.br%2Fcaixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens%2Fp%2Fbcb1c4822e%2Fbr%2Fqucb%2F&psig=AOvVaw2PoZN0U17uzxh7SZ7r8H2C&ust=1684092866193000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiwzo2E8_4CFQAAAAAdAAAAABAO">
+ <center><img src = "https://a-static.mlcdn.com.br/186x140/caixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens/embalagenslina/3771/65dc2050290c5c04fec6fa883b42ed89.jpg"></center>
+</head>
+<body>
+<center><a href="file:///C:/Users/Aluno/Desktop/pedidofinal.html">Peça de novo.</a></center>
