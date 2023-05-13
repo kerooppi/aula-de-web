@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang = "pt-br">
+    <head>
+        <title></title>
+        <meta charset = "utf-8">
+        <link rel = "icon" type ="png"
+        href="https://imagensemoldes.com.br/wp-content/uploads/2021/01/Desenho-de-Gato-Arte-Almofadas-Pet-1024x1024.jpg">
+    </head>
+    <body> 
+        <h1>LOJA PARA GATOS</h1>
+        <h2>Confira abaixo nossa linha de produtos para seu gatinho.</h2>
+        <img src = "https://img.freepik.com/vetores-premium/conjunto-de-icones-de-pet-shop-acessorios-para-gatos-ilustracao-racao-brinquedos-tigela-coleira-produtos-para-pet-shop-ilustracao-vetorial-em-fundo-branco_257455-770.jpg" alt = "img produtos">
+            <table border ="1">
+            <br>
+            <br>
+            <thead>
+                <tr><th>PRODUTO</th><th>Potes</th><th>Cama</th><th>Ração</th><th>Caixa com areia</th><th>Coleira</th><th>Brinquedos</th><th>Escova</th><th>Arranhador</th></tr>
+            </thead>
+            <tfoot>
+                <tr><th>PREÇO</th><th>R$5,99</th><th>R$100,00</th><th>R$89,99</th><th>R$50,00</th><th>R$9,99</th><th>R$15,00</th><th>R$10,00</th><th>R$149,99</th></tr>
+            </tfoot>
+            </table> 
+            <br>
+            <br>
+    </body>
+    <foot>
+        <h3>Conheça mais sobre os felinos:</h3>
+        <a href="raças.html">TOP 6 raças</a>
+        <br>
+        <h3>Gatinhos no cinema!</h3>
+        <a href="filmes.html">Clique aqui para descobrir filmes com protagonistas bigodudos!</a>
+    </foot>
+</html>
+
