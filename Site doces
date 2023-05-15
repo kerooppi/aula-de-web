@@ -5,29 +5,29 @@
         <meta charset="utf-8">
     </head>
     <body>
-        <center><h1>Casa dos doces</h1></center>
-        <center><h2>Cardápio:</h2></center>
-    </form>
-    <center><table border ="1"></center>
+        <h1>Casa dos doces</h1>
+        <h2>Cardápio:</h2>
+    <table border ="1">
         <caption></caption>
-        <center><thead></center>
+        <thead>
             <tr><th>Doces:</th><th>Preços:</th>
-            <tr><th>Bolo inteiro: </th><th>R$80,00</th>
-            <tr><th>Fatia de bolo: </th><th>R$8,00</th>
-            <tr><th>Donuts: </th><th>R$10,00</th>
-            <tr><th>Cupcake: </th><th>R$6,00</th>
-            <tr><th>Macaron: </th><th>R$5,50</th>
-            <tr><th>Cinnamon Rolls: </th><th>R$15,00</th>
-            <tr><th>Croissant: </th><th>R$5,00</th>
-            <tr><th>Pudim grande: </th><th>R$25,00</th>
-            <tr><th>Pudim pequeno: </th><th>R$5,50</th>
-        <center></thead></center>
-        <tfoot>
-        </html>
-    <center></table></center>
+            </thead>
+
+            <tr><td>Bolo inteiro: </td><td>R$80,00</td>
+            <tr><td>Fatia de bolo: </td><td>R$8,00</td>
+            <tr><td>Donuts: </td><td>R$10,00</td>
+            <tr><td>Cupcake: </td><td>R$6,00</td>
+            <tr><td>Macaron: </td><td>R$5,50</td>
+            <tr><td>Cinnamon Rolls: </td><td>R$15,00</td>
+            <tr><td>Croissant: </td><td>R$5,00</td>
+            <tr><td>Pudim grande: </td><td>R$25,00</td>
+            <tr><td>Pudim pequeno: </td><td>R$5,50</td>
+    </table>
+    </body>
     <br>
     <br>
-    <center><a href="file:///C:/Users/Aluno/pedido.html">Faça o seu pedido.</a></center>
+    <a href="file:///C:/Users/Aluno/pedido.html">Faça o seu pedido.</a>
+    </html>
     
     SITE 2
 <!DOCTYPE html>
@@ -38,13 +38,13 @@
     </head>
     <body>
         <h1>Faça seu pedido:</h1>
-        <form action="processa.php" method="get"></form>
+        <form action="processa.php" method="get">
         <label for="">Nome: </label>
         <input type="text" name="nome" id="nome">
         <label for="">Telefone para contato: </label>
-        <input type="text" name="nome" id="nome">
+        <input type="text" name="telefone" id="telefone">
         <label for="">Endereço: </label>
-        <input type="text" name="nome" id="nome">
+        <input type="text" name="endereco" id="endereco">
         <br>
         <br>
         <label> Forma de pagamento: </label>
@@ -140,21 +140,29 @@
 <br>
 <input type="checkbox" name="pudim pequeno" id="op9" value="PP"><label for="op9">Pudim pequeno: </label>
 </select>
+</form>
+
         <br>
         <br>
         <a href="file:///C:/Users/Aluno/pedidofinal.html">Finalizar pedido.</a>
+        </body>
+        </html>
         
         SITE 3
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-    <title>Casa Dos Doces: pedido finalizado</title>
-        
- <h1><center>Pedido finalizado!</center></h1>
- <h2><center>Agradecemos a preferência, volte sempre :)</center></h2>
+<head>
+<title>Casa Dos Doces: pedido finalizado</title>
+</head>
+<body>    
+ <h1>Pedido finalizado!</h1>
+ <h2>Agradecemos a preferência, volte sempre :)</h2>
  <meta charset="utf-8">
  <href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.magazineluiza.com.br%2Fcaixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens%2Fp%2Fbcb1c4822e%2Fbr%2Fqucb%2F&psig=AOvVaw2PoZN0U17uzxh7SZ7r8H2C&ust=1684092866193000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiwzo2E8_4CFQAAAAAdAAAAABAO">
- <center><img src = "https://a-static.mlcdn.com.br/186x140/caixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens/embalagenslina/3771/65dc2050290c5c04fec6fa883b42ed89.jpg"></center>
-</head>
-<body>
-<center><a href="file:///C:/Users/Aluno/cardapio.html">Peça de novo.</a></center>
+ <img src = "https://a-static.mlcdn.com.br/186x140/caixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens/embalagenslina/3771/65dc2050290c5c04fec6fa883b42ed89.jpg">
+
+<br>
+<br>
+<a href="file:///C:/Users/Aluno/cardapio.html">Peça de novo.</a>
+</body>
+</html>
