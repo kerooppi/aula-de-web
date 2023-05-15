@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
-        <title>Casa dos doces</title>
+        <title>Casa Dos Doces</title>
         <meta charset="utf-8">
     </head>
     <body>
@@ -27,13 +27,13 @@
     <center></table></center>
     <br>
     <br>
-    <center><a href="file:///C:/Desktop/pedido.html">Faça o seu pedido.</a></center>
+    <center><a href="file:///C:/Users/Aluno/pedido.html">Faça o seu pedido.</a></center>
     
     SITE 2
-     <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
     <head>
-        <title>Pedidos</title>
+        <title>Casa Dos Doces: fazer o pedido</title>
         <meta charset="utf-8">
     </head>
     <body>
@@ -142,13 +142,13 @@
 </select>
         <br>
         <br>
-        <a href="file:///C:/Users/Aluno/Desktop/pedidofinal.html">Finalizar pedido.</a>
+        <a href="file:///C:/Users/Aluno/pedidofinal.html">Finalizar pedido.</a>
         
         SITE 3
-        <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
     <head>
-    <title>Pedidos</title>
+    <title>Casa Dos Doces: pedido finalizado</title>
         
  <h1><center>Pedido finalizado!</center></h1>
  <h2><center>Agradecemos a preferência, volte sempre :)</center></h2>
@@ -157,4 +157,4 @@
  <center><img src = "https://a-static.mlcdn.com.br/186x140/caixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens/embalagenslina/3771/65dc2050290c5c04fec6fa883b42ed89.jpg"></center>
 </head>
 <body>
-<center><a href="file:///C:/Users/Aluno/Desktop/pedidofinal.html">Peça de novo.</a></center>
+<center><a href="file:///C:/Users/Aluno/cardapio.html">Peça de novo.</a></center>
