@@ -28,7 +28,7 @@
         <p>Sinopse: Um homem bilionário vive para o trabalho, deixando a família em segundo plano. Mas, um dia, após sofrer acidente, ele acaba trocando de corpo com seu gato. Para voltar a ser humano, ele percebe que terá que se redimir com as pessoas próximas a ele.</p>
         <br>
     </body>
-    <foot>
+    <foot> 
         <h3>Dê seu feedback:</h3>
         <form action="processa.php" method="get">
             <label>Você já assistiu algum desses filmes?</label>
