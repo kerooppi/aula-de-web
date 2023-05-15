@@ -1,34 +1,45 @@
 <!DOCTYPE html>
 <html lang = "pt-br">
     <head>
-        <title></title>
+        <title>Site Maedu</title>
         <meta charset = "utf-8">
         <link rel = "icon" type ="png"
         href="https://imagensemoldes.com.br/wp-content/uploads/2021/01/Desenho-de-Gato-Arte-Almofadas-Pet-1024x1024.jpg">
     </head>
     <body>
-        <h1>FILMES COM GATOS PARA VOCÊ ASSISTIR</h1>
-        <h2>aqui iremos mostrar alguns dos filmes mais conhecidos, onde temos felinos como protagonistas.</h2>
+        <header><h1>FILMES COM GATOS PARA VOCÊ ASSISTIR</h1></header>
+        <header><h2>aqui iremos mostrar alguns dos filmes mais conhecidos, onde temos felinos como protagonistas.</h2></header>
         <br>
+
+        <ul>
         <h2>O gato de botas</h2>
-        <p>*Classificação:Livre *Ano:2011 *Gênero:Infantil/Aventura *1h 30m </p>
+            <li>Classificação:Livre</li> <li>Ano:2011</li> <li>Gênero:Infantil/Aventura</li> <li>1h 30m</li> 
         <img src = "https://www.papodecinema.com.br/wp-content/uploads/2022/12/20221215-gato-de-botas-papo-de-cinema-cartaz.jpeg">
         <p>Sinopse: Muito antes de conhecer o ogro Shrek e sua turma, Gato de Botas vai viver uma grande aventura ao lado de Humpty Dumpty e Kitty Pata Mansa. Dipostos a roubar os feijões mágicos, o trio embarca em uma grande aventura pelos ovos dourados, mas algumas coisas não estavam nos planos e Gato vai descobrir, meio atrasado, que tem um grande problema, conseguir ajeitar o que ficou para trás: a  sua honra.</p>
+        </ul>
+
+        <ul>
         <h2>O reino dos gatos</h2>
-        <p>*Classificação:Livre *Ano:2002 *Gênero:Fantasia/Aventura *1h 15m</p>
+        <li>Classificação:Livre</li> <li>Ano:2002</li> <li>Gênero:Fantasia/Aventura</li> <li>1h 15m</li>
         <img src = "https://i0.wp.com/studioghibli.com.br/wp-content/uploads/2020/04/O-reino-dos-gatos-europa-filmes-bluray.jpg?fit=421%2C497&ssl=1">
         <p>Sinopse: Haru salva um gato que estava prestes a ser atropelado por um caminhão e descobre que ele é, na verdade, um príncipe. Por gratidão o Rei dos Gatos a pede em casamento, e a menina é levada para o Reino dos Gatos. Agora, ela quer sua liberdade.</p>
+        </ul>
+
+        <ul>
         <h2>Garfield - o filme</h2>
-        <p>*Classificação:Livre *Ano:2004 *Gênero:Infantil/Comédia *1h 20m</p>
+        <li>Classificação:Livre</li> <li>Ano:2004</li> <li>Gênero:Infantil/Comédia</li> <li>1h 20m</li>
         <img src = "https://upload.wikimedia.org/wikipedia/pt/c/cb/Garfield_the_movie.png">
         <p>Sinopse: Garfield passa seu tempo dormindo, comendo lasanha e aprontando travessuras. Um dia, seu dono Jon se apaixona por uma linda veterinária chamada Liz, a qual convence Jon a adotar Odie, um adorável filhote de cachorro, que imediatamente coloca a confortável vida de Garfield de pernas para o ar. Quando um maligno treinador de cães sequestra Odie, Garfield se levanta do sofá e comanda uma heroica operação de resgate.</p>
+        </ul>
+
+        <ul>
         <h2>Virei um gato</h2>
-        <p>*Classificação:10 *Ano:2016 *Gênero:Comédia/Fantasia *1h 29m</p>
+        <li>Classificação:10</li> <li>Ano:2016</li> <li>Gênero:Comédia/Fantasia</li> <li>1h 29m</li>
         <img src = "https://4.bp.blogspot.com/-WTFGcZq1mkU/V8gSkTwiOnI/AAAAAAABB2w/tFaT5LRHxNkTDghFZzAo4X3nKlxq4pKTQCLcB/s1600/gatoyjpg.jpg">
         <p>Sinopse: Um homem bilionário vive para o trabalho, deixando a família em segundo plano. Mas, um dia, após sofrer acidente, ele acaba trocando de corpo com seu gato. Para voltar a ser humano, ele percebe que terá que se redimir com as pessoas próximas a ele.</p>
+        </ul>
+
         <br>
-    </body>
-    <foot> 
         <h3>Dê seu feedback:</h3>
         <form action="processa.php" method="get">
             <label>Você já assistiu algum desses filmes?</label>
@@ -47,11 +58,13 @@
             <input type="text" name="outro" id="outro">
             <input type="submit" name="enviar" id="enviar" value="Enviar dados">
             <br>
-        <h3>Conheça mais sobre os felinos:</h3>
-        <a href="raças.html">TOP 6 raças</a>
-        <br>
-        <h3>Comprinhas para seu gato:</h3>
-        <a href="loja.html">Clique aqui para descobrir filmes com protagonistas bigodudos!</a>
-    </foot>
+        </form>
+        <footer>
+            <h3>Conheça mais sobre os felinos:</h3>
+            <a href="raças.html">TOP 6 raças</a>
+            <br>
+            <h3>Comprinhas para seu gato:</h3>
+            <a href="loja.html">Clique aqui para acessar nossa loja</a>
+        </footer>
+    </body>
 </html>
-
