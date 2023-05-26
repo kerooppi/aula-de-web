@@ -10,8 +10,10 @@
         <header><h1>FILMES COM GATOS PARA VOCÊ ASSISTIR</h1></header>
         <header><h2>aqui iremos mostrar alguns dos filmes mais conhecidos, onde temos felinos como protagonistas.</h2></header>
         <br>
+        <div id="filmes">
 
         <ul>
+        <div class="botas"></div>
         <h2>O gato de botas</h2>
             <li>Classificação:Livre</li> <li>Ano:2011</li> <li>Gênero:Infantil/Aventura</li> <li>1h 30m</li> 
         <img src = "https://www.papodecinema.com.br/wp-content/uploads/2022/12/20221215-gato-de-botas-papo-de-cinema-cartaz.jpeg">
@@ -19,6 +21,7 @@
         </ul>
 
         <ul>
+        <div class="reino"></div>
         <h2>O reino dos gatos</h2>
         <li>Classificação:Livre</li> <li>Ano:2002</li> <li>Gênero:Fantasia/Aventura</li> <li>1h 15m</li>
         <img src = "https://i0.wp.com/studioghibli.com.br/wp-content/uploads/2020/04/O-reino-dos-gatos-europa-filmes-bluray.jpg?fit=421%2C497&ssl=1">
@@ -26,6 +29,7 @@
         </ul>
 
         <ul>
+        <div class="garfield"></div>
         <h2>Garfield - o filme</h2>
         <li>Classificação:Livre</li> <li>Ano:2004</li> <li>Gênero:Infantil/Comédia</li> <li>1h 20m</li>
         <img src = "https://upload.wikimedia.org/wikipedia/pt/c/cb/Garfield_the_movie.png">
@@ -33,6 +37,7 @@
         </ul>
 
         <ul>
+        <div class="virei"></div>
         <h2>Virei um gato</h2>
         <li>Classificação:10</li> <li>Ano:2016</li> <li>Gênero:Comédia/Fantasia</li> <li>1h 29m</li>
         <img src = "https://4.bp.blogspot.com/-WTFGcZq1mkU/V8gSkTwiOnI/AAAAAAABB2w/tFaT5LRHxNkTDghFZzAo4X3nKlxq4pKTQCLcB/s1600/gatoyjpg.jpg">
@@ -59,6 +64,7 @@
             <input type="submit" name="enviar" id="enviar" value="Enviar dados">
             <br>
         </form>
+        </div>
         <footer>
             <h3>Conheça mais sobre os felinos:</h3>
             <a href="raças.html">TOP 6 raças</a>
