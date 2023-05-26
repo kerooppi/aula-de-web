@@ -7,11 +7,10 @@
         href="https://imagensemoldes.com.br/wp-content/uploads/2021/01/Desenho-de-Gato-Arte-Almofadas-Pet-1024x1024.jpg">
     </head>
     <body> 
-        <header><h1>LOJA PARA GATOS</h1></header>
-        <header><h2>confira abaixo nossa linha de produtos para seu gatinho.</h2></header>
+        <header><h1>LOJA PARA GATOS</h1>
+        <h2>confira abaixo nossa linha de produtos para seu gatinho.</h2></header>
         <img src = "https://img.freepik.com/vetores-premium/conjunto-de-icones-de-pet-shop-acessorios-para-gatos-ilustracao-racao-brinquedos-tigela-coleira-produtos-para-pet-shop-ilustracao-vetorial-em-fundo-branco_257455-770.jpg" alt = "img produtos">
         <table border ="1">
-            <br>
             <br>
             <thead><tr><th>PRODUTOS:</th><th>PREÇOS:</th></tr></thead>
             <tfoot>
