@@ -8,10 +8,10 @@
     </head>
     <body> 
         <header><h1>LOJA PARA GATOS</h1>
-        <h2>confira abaixo nossa linha de produtos para seu gatinho.</h2></header>
+        <h2>Confira abaixo nossa linha de produtos para seu gatinho.</h2></header>
         <img src = "https://img.freepik.com/vetores-premium/conjunto-de-icones-de-pet-shop-acessorios-para-gatos-ilustracao-racao-brinquedos-tigela-coleira-produtos-para-pet-shop-ilustracao-vetorial-em-fundo-branco_257455-770.jpg" alt = "img produtos">
         <table border ="1">
-            <br>
+            
             <thead><tr><th>PRODUTOS:</th><th>PREÇOS:</th></tr></thead>
             <tfoot>
                 <tr><td>Potinho</td><td>R$5,00</td></tr>
@@ -23,9 +23,8 @@
                 <tr><td>Escova</td><td>R$10,00</td></tr>
                 <tr><td>Arranhador</td><td>R$149,00</td></tr>
             </tfoot>
-            </table>
-            <br>
-            <br>
+        </table>
+
     <footer>
         <h3>Conheça mais sobre os felinos:</h3>
         <a href="raças.html">TOP 6 raças</a>
