@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Exemplo uso de ids e classes</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="reset.css">
+        <link rel="stylesheet" type="text/css" href="exe.css">
+    </head>
+    <body>
+        <div id="container">
+            <header>
+                <h1>Título do site aqui</h1>
+            </header>
+            <nav id="menu_principal">Área de navegação aqui</nav>
+            <section id="produtos">
+                <h2>Produtos em destaque</h2>
+                <div class="produto">
+                    <ul>
+                        <li>Imagem aqui</li>
+                        <li class="nome_produto">Nome do produto aqui</li>
+                        <li class="descricao_produto">Descrição breve aqui</li>
+                        <li class="preco_produto">Preço aqui</li>
+                        <li>Link mais info aqui</li>
+                    </ul>
+                </div>
+                <div class="produto">
+                    <ul>
+                        <li>Imagem aqui</li>
+                        <li class="nome_produto">Nome do produto aqui</li>
+                        <li class="descricao_produto">Descrição breve aqui</li>
+                        <li class="preco_produto">Preço aqui</li>
+                        <li>Link mais info aqui</li>
+                    </ul>
+                </div>
+                <div class="produto">
+                    <ul>
+                        <li>Imagem aqui</li>
+                        <li class="nome_produto">Nome do produto aqui</li>
+                        <li class="descricao_produto">Descrição breve aqui</li>
+                        <li class="preco_produto">Preço aqui</li>
+                        <li>Link mais info aqui</li>
+                    </ul>
+                </div>
+                <div class="produto">
+                    <ul>
+                        <li>Imagem aqui</li>
+                        <li class="nome_produto">Nome do produto aqui</li>
+                        <li class="descricao_produto">Descrição breve aqui</li>
+                        <li class="preco_produto">Preço aqui</li>
+                        <li>Link mais info aqui</li>
+                    </ul>
+                </div>
+            </section>
+            <footer>
+                <p>Rodapé aqui</p>
+            </footer>
+        </div>
+    </body>
+</html>
