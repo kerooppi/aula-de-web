@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br"> 
+<html lang="pt-br">
     <head>
         <title>Casa Dos Doces</title>
         <meta charset="utf-8">
@@ -7,27 +7,40 @@
     <body>
         <h1>Casa dos doces</h1>
         <h2>Cardápio:</h2>
-    <table border ="1">
-        <caption></caption>
-        <thead>
+         <table border ="1">
+
+            <thead>
             <tr><th>Doces:</th><th>Preços:</th>
             </thead>
+        <tfoot>
+            <tr>
+            <td>Bolo inteiro:</td><td>R$80,00</td>
+            <tr>
+            <td>Fatia de bolo:</td><td>R$8,00</td>
+            <tr>
+            <td>Donuts:</td><td>R$10,00</td>
+            <tr>
+            <td>Cupcake:</td><td>R$6,00</td>
+            <tr>
+            <td>Macaron:</td><td>R$5,50</td>
+            <tr>
+            <td>Cinnamon Rolls:</td><td>R$15,00</td>
+            <tr>
+            <td>Croissant:</td><td>R$5,00</td>
+            <tr>
+            <td>Pudim grande:</td><td>R$25,00</td>
+            <tr>
+            <td>Pudim pequeno:</td><td>R$5,50</td>
+            </tr>
+        </tfoot>
+        </table>
 
-            <tr><td>Bolo inteiro: </td><td>R$80,00</td>
-            <tr><td>Fatia de bolo: </td><td>R$8,00</td>
-            <tr><td>Donuts: </td><td>R$10,00</td>
-            <tr><td>Cupcake: </td><td>R$6,00</td>
-            <tr><td>Macaron: </td><td>R$5,50</td>
-            <tr><td>Cinnamon Rolls: </td><td>R$15,00</td>
-            <tr><td>Croissant: </td><td>R$5,00</td>
-            <tr><td>Pudim grande: </td><td>R$25,00</td>
-            <tr><td>Pudim pequeno: </td><td>R$5,50</td>
-    </table>
+    <footer>
+        <a href="file:///C:/Users/Aluno/pedido.html">Faça o seu pedido.</a>
+    </footer>
     </body>
-    <br>
-    <br>
-    <a href="file:///C:/Users/Aluno/pedido.html">Faça o seu pedido.</a>
-    </html>
+ </html>
+
     
     SITE 2
 <!DOCTYPE html>
