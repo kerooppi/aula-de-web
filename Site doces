@@ -55,114 +55,95 @@
     <body>
         <h1>Faça seu pedido:</h1>
         <form action="processa.php" method="get">
-        <label for="">Nome: </label>
-        <input type="text" name="nome" id="nome">
-        <label for="">Telefone para contato: </label>
-        <input type="text" name="telefone" id="telefone">
-        <label for="">Endereço: </label>
-        <input type="text" name="endereco" id="endereco">
-        <br>
-        <br>
-        <label> Forma de pagamento: </label>
-            <input type="radio" name="pagamento" id="op1" value="P"><label for="op1">Pix</label>
-            <input type="radio" name="pagamento" id="op3" value="c"><label for="op3">Cartão de Débito</label>
-            <input type="radio" name="pagamento" id="op4" value="cc"><label for="op4">Cartão de Crédito:</label>
-            <label for="Cartão"></label>
-        <select id="banco" name="Banco">
+        <label>Nome:</label>
+        <input type="text" name="nome" id="n">
+        <label>Telefone para contato:</label>
+        <input type="text" name="telefone" id="t">
+        <label>Endereço:</label>
+        <input type="text" name="endereco" id="e">
+
+        <label>Forma de pagamento:</label>
+            <input type="radio" name="pagamento" id="op1" value="P"><label>Pix</label>
+            <input type="radio" name="pagamento" id="op3" value="c"><label>Cartão de Débito</label>
+            <input type="radio" name="pagamento" id="op4" value="cc"><label>Cartão de Crédito:</label>
+            <label>Cartão:</label>
+        <select id="b" name="Banco">
             <option value="Santander">Santander</option>
             <option value="Caixa">Caixa</option>
             <option value="Bradesco">Bradesco</option>
             <option value="Banrisul">Banrisul</option>
-            <input type="radio" name="pagamento" id="op2" value="d"><label for="op2">Dinheiro;</label>
-            <label for="">Troco:</label>
-                <input type="text" name="dinheiro" id="Dinheiro">
-        </select> 
-        <br>
-        <br>
-        <input type="checkbox" name="bolo" id="op1" value="B"><label for="op1">Bolo inteiro: </label>
-        <br>
-        <br>
-        <label for="Sabores de bolo">Sabores:</label>
-            <select id="Sabores" name="Sabores">
+                <input type="radio" name="pagamento" id="op5"><label>Dinheiro;</label>
+            <label>Troco:</label>
+                <input type="text" name="Dinheiro" id="d2">
+      
+        <input type="checkbox" name="bolo" id="op6" value="b1"><label>Bolo inteiro:</label>
+       
+        <label>Sabores:</label>
+            <select id="s1" name="Sabores de bolo 1">
                 <option value="Chocolate">Chocolate</option>
                 <option value="Cenoura">Cenoura</option>
                 <option value="Baunilha">Baunilha</option>
                 <option value="Laranja">Laranja</option>
         </select>
-        <br>
-        <br>
-        <input type="checkbox" name="bolo2" id="op2" value="B"><label for="op2">Fatia de bolo: </label>
-        <br>
-        <br>
-        <label for="Sabores de bolo">Sabores:</label>
-            <select id="Sabores" name="Sabores">
+       
+        <input type="checkbox" name="bolo2" id="op7" value="b2"><label>Fatia de bolo:</label>
+        
+        <label>Sabores:</label>
+            <select id="s2" name="Sabores de bolo 2">
                 <option value="Chocolate">Chocolate</option>
                 <option value="Cenoura">Cenoura</option>
                 <option value="Baunilha">Baunilha</option>
                 <option value="Laranja">Laranja</option>
         </select>
-        <br>
-        <br>
-        <input type="checkbox" name="donuts" id="op3" value="D"><label for="op3">Donuts: </label>
-        <br>
-        <br>
-        <label for="Cobertura de donuts">Cobertura:</label>
-            <select id="Cobertura de donuts" name="Cobertura">
+     
+        <input type="checkbox" name="donuts" id="op8" value="d"><label>Donuts:</label>
+        
+        <label>Cobertura:</label>
+            <select id="cd" name="Cobertura de donuts">
                 <option value="Brigadeiro">Brigadeiro tradicional</option>
                 <option value="Beijinho">Beijinho</option>
                 <option value="Morango">Morango</option>
                 <option value="Ninho">Ninho</option>
                 <option value="Red Velvet">Red Velvet</option>
         </select>
-        <br>
-        <br>
-        <input type="checkbox" name="cupcake" id="op4" value="C"><label for="op4">Cupcake: </label>
-        <br>
-        <br>
-        <label for="Cobertura de cupcake">Cobertura:</label>
-            <select id="Cobertura de cupcake" name="Cobertura">
+       
+        <input type="checkbox" name="cupcake" id="op9" value="c1"><label>Cupcake:</label>
+       
+        <label>Cobertura:</label>
+            <select id="cc2" name="Cobertura de cupcake">
                 <option value="Nutella">Nutella</option>
                 <option value="Limão">Limão</option>
                 <option value="Chocolate">Chocolate</option>
                 <option value="Ninho">Ninho</option>
                 <option value="Red Velvet">Red Velvet</option>
         </select>
-    <br>
-    <br>
-    <input type="checkbox" name="macaron" id="op5" value="M"><label for="op5">Macaron: </label>
-    <br>
-    <br>
-    <label for="Sabores de macaron">Cobertura:</label>
-        <select id="Sabores de macaron" name="Sabores">
+    
+    <input type="checkbox" name="macaron" id="op10" value="m"><label>Macaron:</label>
+
+    <label>Cobertura:</label>
+        <select id="sm" name="Sabores de macaron">
             <option value="Nutella">Nutella</option>
             <option value="Limão">Limão</option>
             <option value="Chocolate">Chocolate</option>
             <option value="Ninho">Ninho</option>
             <option value="Red Velvet">Red Velvet</option>
     </select>
-<br>
-<br>
-<input type="checkbox" name="cinnamon rolls" id="op6" value="CR"><label for="op6">Cinnamon Rolls: </label>
-</select>
-<br>
-<br>
-<input type="checkbox" name="croissant" id="op7" value="C"><label for="op7">Croissant: </label>
-</select>
-<br>
-<br>
-<input type="checkbox" name="pudim grande" id="op8" value="PG"><label for="op8">Pudim grande: </label>
-</select>
-<br>
-<br>
-<input type="checkbox" name="pudim pequeno" id="op9" value="PP"><label for="op9">Pudim pequeno: </label>
-</select>
+
+<input type="checkbox" name="cinnamon rolls" id="op11" value="cr"><label>Cinnamon Rolls:</label>
+
+<input type="checkbox" name="croissant" id="op12" value="c2"><label>Croissant:</label>
+
+<input type="checkbox" name="pudim grande" id="op13" value="pg"><label>Pudim grande:</label>
+
+<input type="checkbox" name="pudim pequeno" id="op14" value="pp"><label>Pudim pequeno:</label>
+
 </form>
 
-        <br>
-        <br>
+    <footer>
         <a href="file:///C:/Users/Aluno/pedidofinal.html">Finalizar pedido.</a>
-        </body>
-        </html>
+    </footer>
+    </body>
+ </html>
         
         SITE 3
 <!DOCTYPE html>
