@@ -5,8 +5,10 @@
         <meta charset="utf-8">
     </head>
     <body>
+    <header>
         <h1>Casa dos doces</h1>
         <h2>Cardápio:</h2>
+     </header>
          <table border ="1">
 
             <thead>
@@ -40,6 +42,7 @@
     </footer>
     </body>
  </html>
+
 
     
     SITE 2
@@ -169,9 +172,11 @@
         <meta charset="utf-8">
     </head>
     <body>    
+    <header>
         <h1>Pedido finalizado!</h1>
         <h2>Agradecemos a preferência, volte sempre :)</h2>
- 
+    </header>
+    
         <img src = "https://a-static.mlcdn.com.br/186x140/caixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens/embalagenslina/3771/65dc2050290c5c04fec6fa883b42ed89.jpg" alt = "caixinha de doces">
 
      <footer>
