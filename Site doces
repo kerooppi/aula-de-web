@@ -164,18 +164,18 @@
         SITE 3
 <!DOCTYPE html>
 <html lang="pt-br">
-<head>
-<title>Casa Dos Doces: pedido finalizado</title>
-</head>
-<body>    
- <h1>Pedido finalizado!</h1>
- <h2>Agradecemos a preferência, volte sempre :)</h2>
- <meta charset="utf-8">
- <href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.magazineluiza.com.br%2Fcaixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens%2Fp%2Fbcb1c4822e%2Fbr%2Fqucb%2F&psig=AOvVaw2PoZN0U17uzxh7SZ7r8H2C&ust=1684092866193000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLiwzo2E8_4CFQAAAAAdAAAAABAO">
- <img src = "https://a-static.mlcdn.com.br/186x140/caixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens/embalagenslina/3771/65dc2050290c5c04fec6fa883b42ed89.jpg">
+    <head>
+        <title>Casa Dos Doces: pedido finalizado</title>
+        <meta charset="utf-8">
+    </head>
+    <body>    
+        <h1>Pedido finalizado!</h1>
+        <h2>Agradecemos a preferência, volte sempre :)</h2>
+ 
+        <img src = "https://a-static.mlcdn.com.br/186x140/caixa-de-04-doces-encanto-cute-candy-10-unidades-ideia-embalagens/embalagenslina/3771/65dc2050290c5c04fec6fa883b42ed89.jpg" alt = "caixinha de doces">
 
-<br>
-<br>
-<a href="file:///C:/Users/Aluno/cardapio.html">Peça de novo.</a>
-</body>
+     <footer>
+        <a href="file:///C:/Users/Aluno/cardapio.html">Peça de novo.</a>
+     </footer>
+     </body>
 </html>
