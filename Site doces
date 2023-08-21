@@ -3,12 +3,17 @@
     <head>
         <title>Casa Dos Doces</title>
         <meta charset="utf-8">
+        <link rel="stylesheet"  type="text/css" href="reset.css">
+        <link rel="stylesheet"  type="text/css" href="cardapio.css">
     </head>
     <body>
     <header>
         <h1>Casa dos doces</h1>
         <h2>Cardápio:</h2>
      </header>
+     <div id="container">
+     
+    
          <table border ="1">
 
             <thead>
@@ -35,16 +40,44 @@
             <td>Pudim pequeno:</td><td>R$5,50</td>
             </tr>
         </tfoot>
-        </table>
+    </table>
 
     <footer>
         <a href="file:///C:/Users/Aluno/pedido.html">Faça o seu pedido.</a>
     </footer>
+    </div>
     </body>
  </html>
 
+CSS
+*{
+        background-color:#bfe1f5
+}
+#container {
+        border: solid 5px;
+        border-color: #8fbcff;
+        width: 60%;
+        margin: 0 auto;
+        padding: 50px 40px;
+        font-size: 30px;
+        margin-top: 20px;
+        text-align: center;
+        
+}
+header h1 {
+        background-color: #f8c5df;
+        text-align: center;
+        font-size: 60px;
+        color: #ff77bb;
+}
+header h2 {
+        background-color: #f8c5df;
+        text-align: center;
+        font-size: 40px;
+        color: #ffa6d2;
+}
 
-    
+
     SITE 2
 <!DOCTYPE html>
 <html lang="pt-br">
