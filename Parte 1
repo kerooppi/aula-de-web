@@ -11,12 +11,17 @@
     <body>
         <div id="container">
 
-        <header>
+        <header id="cabeçalho">
+            <nav>
             <a href="loja.html">Acessar nossa loja</a>
-            <a href="filmes.html">Filmes com protagonistas bigodudos!</a></header>
+            <a href="filmes.html">Filmes com protagonistas bigodudos</a>
+            </nav>
+        </header>
 
-        <h1>TOP 6 RAÇAS DE GATOS QUE VOCÊ PRECISA CONHECER.</h1>
-        <h2>todas características que você precisa saber sobre estas raças, antes de ter o seu!</h2>
+        <header><h1>TOP 6 RAÇAS DE GATOS QUE VOCÊ PRECISA CONHECER.</h1>
+        <h2> todas características que você precisa saber sobre estas raças, antes de ter o seu!</h2>
+        </header>
+
         <div id="raças">
 
         <div class="Siâmes">
