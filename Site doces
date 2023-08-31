@@ -1,3 +1,73 @@
+SITE 1 INICIO
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Casa Dos Doces</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet"  type="text/css" href="inicio.css">
+    </head>
+    <header>
+        <h1>Seja bem-vindo a Casa Dos Doces!</h1>
+        <h2>Doces em destaque: </h2>
+    </header>
+
+           <div class="imagem">
+            <img id="imagem1" src="https://www.daninoce.com.br/wp-content/uploads/2017/09/cupcake-frutas-vermelhas-fran-oliveira-ickfd2.jpg">
+          <span>Cupcake:</span>
+          <p>20 reais</p>
+          </div>
+
+
+         <div class="imagem">
+            <img id="imagem2" src="https://bakeandcakegourmet.com.br/uploads/site/receitas/bolo-de-chocolate-facil-e-barato-rspxk8nc.jpg">
+          <span>Bolo</span>
+          <p>30 reais</p>
+          </div>
+
+         <div class="imagem">
+            <img id="imagem3" src="https://static.itdg.com.br/images/1200-675/59e079217cc8af8291a8cb910d1d449f/318825-original.jpg">
+          <span>Pudim</span>
+          <p>40 reais</p>
+          </div>
+
+ <footer>
+        <a href="file:///C:/Users/Aluno/pedido.html">Faça o seu pedido.</a>
+    </footer>
+    </div>
+    </body>
+ </html>
+CSS SITE INICIO:
+*{
+        background-color:#bfe1f5
+}
+.imagem{
+        display: flex;
+        float: left;
+        font-size: 25px;
+}
+  
+img{
+ 
+        float: left;
+        left: 50px;
+        width: 100px;
+
+  }
+
+header h1 {
+        background-color: #f8c5df;
+        text-align: center;
+        font-size: 60px;
+        color: #ff77bb;
+}
+header h2 {
+        background-color: #f8c5df;
+        text-align: center;
+        font-size: 40px;
+        color: #ffa6d2;
+}
+
+SITE 2 CARDAPIO
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -48,8 +118,7 @@
     </div>
     </body>
  </html>
-
-CSS
+CSS CARDAPIO:
 *{
         background-color:#bfe1f5
 }
@@ -78,7 +147,7 @@ header h2 {
 }
 
 
-    SITE 2
+    SITE 3 PEDIDO
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -178,7 +247,7 @@ header h2 {
     </body>
  </html>
         
-        SITE 3
+        SITE 4 PEDIDO FINAL
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
