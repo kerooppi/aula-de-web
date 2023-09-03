@@ -209,7 +209,7 @@ SITE 2 SÉRIES
     </div>
     </body>
  </html>
-CSS
+CSS 2
 *{
     background-color:#6e6b6b;
 }
@@ -355,7 +355,7 @@ SITE 3 FILMES CLÁSSICOS
           <img id="imagem2" src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/29/47/20028669.jpg">
         <p>Cinco estudantes da Universidade de Michigan decidem passar um final de semana em uma casa isolada. Lá eles encontram o livro dos mortos, um documento que data da época da Babilônia e que está relacionado ao livro dos mortos egípcio. Enquanto vasculham a casa os amigos gravam em fita alguns encantamentos demoníacos, escritos no livro. A partir de então eles são possuídos por espiritos, um a um. O primeiro alvo é Cheryl (Ellen Sandweiss), brutalmente estuprada pelas forças do mal. Ash (Bruce Campbell), seu irmão, resolve levá-la a uma cidade próxima, mas descobre que a única ponte que leva ao local está destruída. Logo a transformação de Cheryl em demônio é concluída, resultando em seu ataque aos amigos</p>
        </div>
-  CSS
+  CSS 3
 *{
     background-color:#6e6b6b;
   
@@ -498,7 +498,7 @@ SITE 4 FILMES LANÇAMENTOS
           <img id="imagem2" src="https://br.web.img3.acsta.net/c_310_420/pictures/23/06/29/20/37/2370331.jpg                                                         ">
         <p>Sobrenatural: A Porta Vermelha, quinto filme da franquia, se passa 10 anos após os eventos de Sobrenatural: Capítulo 2. A trama de Sobrenatural: A Porta Vermelha volta a seguir a família Lambert, formada por Renai (Rose Byrne), Josh (Patrick Wilson, Foster (Andrew Astor), Dalton (Ty Simpkins) e Kali (Juliana Davies). Josh segue para o leste para deixar seu filho, Dalton, na faculdade. Dalton acabou de ingressar na faculdade, no entanto, o sonho do jovem logo se torna um pesadelo, e ele logo se dá conta de que ainda está muito longe de conseguir levar uma vida normal. Quando os demônios reprimidos de seu passado voltam repentinamente para assombrar os dois, ele e o pai são obrigados a retornar à macabra dimensão da Porta Vermelha, enfrentando uma série de novas e ainda mais terríveis ameaças e encarando seus medos mais profundos para, só assim, banirem seus demônios de uma vez por todas.</p>
        </div>
-CSS
+CSS 4
 *{
     background-color:#6e6b6b;
   
@@ -645,7 +645,7 @@ SITE 5 COMENTÁRIO
     </form>
     </body>
 </html>
-CSS
+CSS 5
 *{
         background-color:#6e6b6b;
       
