@@ -8,70 +8,52 @@ SITE 1 INICIO TERROR
         <link rel="stylesheet"  type="text/css" href="reset.css">
 
     </head>
-    <body>
     <header>
-        <h1>Seja bem vindo ao </h1>
-        <h2>Filmes em destaque: </h2>
+        <h1>Seja bem vindo ao</h1>
+        <nav class="menu"> 
+            <ul>
+                 <li><a href="#" title="Home">Séries</a></li>  
+                 <li><a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/filmes1.html" title="Quem Somos">Filmes</a></li>
+            </ul>
+         </nav>
+        <h2>Filmes em destaque: </h2> 
     </header>
+
     <div>
+        <footer class="footer"/>
+    <h3>Pânico VI</h3>
     <iframe class="w3_bg" data-src="https://www.youtube.com/embed/QOgdGhA9gos" style="background-image:url(https://i.ytimg.com/vi/QOgdGhA9gos/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/QOgdGhA9gos" data-done="Loaded"></iframe>
     <p>Sam (Melissa Barrera), Tara (Jenna Ortega), Mindy (Jasmin Savoy Brown) e Chad (Mason Gooding) estão fartos. Depois de sobreviver ao massacre final de Ghostface em Woodsboro, os quatro se mudam sem cerimônia para Nova York. Lá, os dois irmãos querem começar uma nova vida, por assim dizer, e deixar a pequena cidade e suas experiências traumáticas para trás. Mas o maldito assassino com uma máscara de fantasma e uma lâmina afiada não pode ser abalado tão facilmente, porque de repente ele também aparece na Big Apple. Na rua, no metrô, no supermercado – aparentemente em todos os lugares ele aproveita a agitação da cidade grande para desaparecer na multidão com a mesma rapidez com que apareceu antes. E embora Sam, Tara, Mindy e Chad já tenham conhecido o assassino, desta vez eles não podem confiar em sua experiência. Porque quem está por trás da máscara tem novos truques na manga.</p>
     <footer>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
      </footer>
 
+     <h4>Pearl</h4>
     <iframe class="w3_bg" data-src="https://www.youtube.com/embed/7MRcuN9_Pfo" style="background-image:url(https://i.ytimg.com/vi/7MRcuN9_Pfo/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/7MRcuN9_Pfo" data-done="Loaded"></iframe>
     <p> Pearl é mais um capítulo do mundo distorcido de X do cineasta Ti West. O ano é 1918, e a jovem Pearl (Mia Goth) está obcecada em se tornar famosa. Presa na fazenda isolada de sua família, Pearl se vê obrigada a cuidar de seu pai doente, e viver sob a vigilância constante de sua amarga e autoritária mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, Pearl encontra suas ambições, tentações e repressões entrando em conflito. Nesta história da origem da icônica vilã de X, quando o sonho de ser finalmente uma estrela é negado a ela, ela começa a assassinar, até alcançar o que deseja. Filmado secretamente e simultaneamente com X: A Marca da Morte (2022). Pearl serve como prequela do filme, mostrando o início da vida da personagem-título décadas antes dos eventos de X.</p>
     <footer>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
      </footer>
 
+     <h5>Rua do Medo</h5>
     <iframe data-src="https://www.youtube.com/embed/3jiRtYuunZw" style="background-image:url(https://i.ytimg.com/vi/3jiRtYuunZw/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/3jiRtYuunZw" data-done="Loaded"></iframe>
     <p>Rua do Medo é a adaptação da série de livros de mesmo nome de R.L. Stine. Depois da colega Heather (Maya Hawke) ser morta na saída do trabalho, um grupo de adolescentes passa a ser perseguido por um grupo de assassinos mascarados em 1994, na pequena cidade de Shadyside. Quando começam a investigar as mortes, eles descobrem que não são as primeiras vítimas e que a cidade tem uma longa história de assassinatos brutais que acontecem há anos. Agora eles precisarão descobrir uma forma de impedir os assassinos ou, então, não sobreviverão até o dia seguinte.</p>
     <footer>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
      </footer>
 
+     <h6>Hereditário</h6>
     <iframe data-src="https://www.youtube.com/embed/aVqszEgRYsc" style="background-image:url(https://i.ytimg.com/vi/aVqszEgRYsc/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/aVqszEgRYsc" data-done="Loaded"></iframe>
-    <p> Rua do Medo é a adaptação da série de livros de mesmo nome de R.L. Stine. Depois da colega Heather (Maya Hawke) ser morta na saída do trabalho, um grupo de adolescentes passa a ser perseguido por um grupo de assassinos mascarados em 1994, na pequena cidade de Shadyside. Quando começam a investigar as mortes, eles descobrem que não são as primeiras vítimas e que a cidade tem uma longa história de assassinatos brutais que acontecem há anos. Agora eles precisarão descobrir uma forma de impedir os assassinos ou, então, não sobreviverão até o dia seguinte.</p>
+    <p> Quando sua mãe - que sofria de distúrbios mentais - falece, Annie (Toni Collette), seu marido (Gabriel Byrne), filho (Alex Wolff) e filha (Milly Shapiro) lamentam sua perda. Todavia, após a morte da reclusa avó, a família Graham começa a desvendar algumas coisas. A família recorre a diferentes meios para lidar com sua dor, incluindo Annie e sua filha flertando com o sobrenatural. Mesmo após a partida da matriarca, ela permanece como se fosse um sombra sobre a família, especialmente sobre a solitária neta adolescente, Charlie, por quem ela sempre manteve uma fascinação não usual. Com um crescente terror tomando conta da casa, a família explora lugares mais obscuros para escapar do infeliz destino que herdaram. Cada um deles começa a ter experiências perturbadoras e sobrenaturais ligadas aos segredos sinistros e traumas emocionais que passaram pelas gerações de sua família.    </p>
     <footer>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
      </footer>
-
-    <iframe class="w3_bg" data-src="https://www.youtube.com/embed/ZgV0-Hrj5Vc" style="background-image:url(https://i.ytimg.com/vi/ZgV0-Hrj5Vc/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/ZgV0-Hrj5Vc" data-done="Loaded"></iframe>
-    <p>O conteúdo a seguir pode conter certos perigos e riscos ocultos, o que inclui eu recontar os encontros horríveis que aconteceram seis anos atrás. Há 6 anos, montei um estúdio "Caça-Fantasmas" com meu namorado e meus colegas de jornalismo, tínhamos como objetivo quebrar mitos de superstições e compartilhá-los em nosso blog. Um dia, um aviso urgente chegou da casa do meu namorado, chamando-o para voltar para um antigo ritual de culto que ocorre uma vez a cada duas décadas em sua família. Pensando que seria um material decente para o nosso blog, chegamos todos para o ritual. Infelizmente, experimentamos a mais terrível maldição antiga lá.</p>
-    <footer>
-        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
-     </footer>
-
-    <iframe data-src="https://www.youtube.com/embed/4CLHODHYi6E" style="background-image:url(https://i.ytimg.com/vi/4CLHODHYi6E/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/4CLHODHYi6E" data-done="Loaded"></iframe>
-    <p> O conteúdo a seguir pode conter certos perigos e riscos ocultos, o que inclui eu recontar os encontros horríveis que aconteceram seis anos atrás. Há 6 anos, montei um estúdio "Caça-Fantasmas" com meu namorado e meus colegas de jornalismo, tínhamos como objetivo quebrar mitos de superstições e compartilhá-los em nosso blog. Um dia, um aviso urgente chegou da casa do meu namorado, chamando-o para voltar para um antigo ritual de culto que ocorre uma vez a cada duas décadas em sua família. Pensando que seria um material decente para o nosso blog, chegamos todos para o ritual. Infelizmente, experimentamos a mais terrível maldição antiga lá.</p>
-    <footer>
-        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
-     </footer>
-
-    <h3>Séries em destaque:</h3>
-    <iframe data-src="https://www.youtube.com/embed/4N8CQ-T6iUs" style="background-image:url(https://i.ytimg.com/vi/4N8CQ-T6iUs/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/4N8CQ-T6iUs" data-done="Loaded"></iframe>
-    <p> Will Graham é um investigador do FBI que tem o talento de se inserir nas cenas dos crimes e visualizar exatamente o que aconteceu. Tal capacidade ajuda a solucionar muitos casos, mas também exige muito dele, obrigando-o a consultar o psiquiatra Hannibal Lecter. Mal sabe Graham, que o dr. Lecter não é um psiquiatra comum.</p>
-    <footer>
-        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre a série.</a>
-     </footer>
-    <iframe data-src="https://www.youtube.com/embed/bRNajdYu6pQ" style="background-image:url(https://i.ytimg.com/vi/bRNajdYu6pQ/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/bRNajdYu6pQ" data-done="Loaded"></iframe>
-    <p> Após uma violenta tempestade devastar a cidade de Maine, David Drayton (Thomas Jane) e Billy (Nathan Gamble), seu filho de 8 anos, correm rumo ao supermercado, temendo que os suprimentos se esgotem. Porém um estranho nevoeiro toma conta da cidade, o que faz com que David, Billy e outras pessoas fiquem presas no supermercado. Logo David descobre que há algo de sobrenatural envolvido e que, caso deixem o local, isto pode ser fatal.</p>
-    <footer>
-        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre a série.</a>
-     </footer>
-    <iframe data-src="https://www.youtube.com/embed/WUejkrfF6u0" style="background-image:url(https://i.ytimg.com/vi/WUejkrfF6u0/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/WUejkrfF6u0" data-done="Loaded"></iframe>
-    <p> Depois de um incidente de cyber-bullying resultar em um assassinato brutal, a violência reacende a memória de uma série de assassinatos que ocorreram no passado em Lakewood, que intrigaram alguns e talvez tenham inspirado um novo serial killer. Um grupo de adolescentes, com dois velhos amigos tentando se reconectarem, se tornam amantes, inimigos, suspeitos, alvos e vítimas de um assassino que está à procura de sangue.</p>
-    <footer>
-        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre a série.</a>
-     </footer>
-    </div>
-    </body>
- </html>
+     </div>
+       </body>
+</html>
 CSS 1
 *{
-        background-color:#111314
+        background-color:#6e6b6b;
 }
 
 .w3_bg{
@@ -85,28 +67,538 @@ header h1 {
     margin: auto;
     color: #000000;
     position: fixed fill;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    top: 0;
+ 
 
 }
-header h2, h3{
+header h2{
         background-color: #c30065;
         text-align: center;
         font-size: 35px;
         margin: auto;
         color: #000000;
+        box-shadow: 0px 0px 20px rgba(64, 3, 3, 0.1);
+        
+        width: 100%;      
+       
+}
+ h3, h4, h5, h6 {
+        background-color: #c30065;
+        text-align: center;
+        font-size: 50px;
+        margin: auto;
+        color: #000000;
+        position: fixed fill;
 }
 
+
+.menu ul {
+        text-align: right;
+        list-style:none;
+        width:100%;
+        float:left;
+        padding:0px;
+        gap: 10px;
+        background-color:#6e6b6b; 
+        box-shadow: 1px 0px 1.2px 0px #e3e3e3;
+    }
+    
+    .menu ul li a {
+        text-align: right;
+        text-decoration:none;   
+        color: #000000;
+        font-family: 'open_sansregular';
+    }
+    
+    .menu ul li {
+        text-align: right;
+        position:relative;
+        display: block;
+        width: 100%;
+        float:left;
+        margin: 4px 15px;
+        padding: 0px;
+        border-width: 0px 0px 3px 0px;    
+        border-color:transparent;
+        border-style:solid;
+    }
+    
+    .menu ul li:hover a {
+        text-align: right;
+        color: #c30065;
+        border-width: 0px 0px 3px 0px;    
+        border-color:#c30065;
+        border-style:solid;
+    
+    }
+    
+    
+    /*768PX BREAKPOINT*/
+    @media (min-width:48em){
+    
+        .menu ul li { display:block; width:auto; margin: 8px 20px; padding: 10px;}
+    
+    } 
+
+     
 p{
+        color: #000000;
         display: flex;
         float: left;
         text-align: left;
 }
 video{
     display: flex;
+    width: 100px;
+}
+.footer, a{
+        color: rgb(255, 255, 255);
+}
+html, body {
+        min-height: 100%;
+    }
+    body {
+        padding: 0;
+        margin: 0;
+    }
+
+SITE 2 SÉRIES
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Amantes De Terror</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet"  type="text/css" href="filmes1.css">
+        <link rel="stylesheet"  type="text/css" href="reset.css">
+
+    </head>
+    <header>
+        <h1>Seja bem vindo ao</h1>
+        <nav class="menu"> 
+            <ul>
+                 <li><a href="#" title="Home">Séries</a></li>  
+                 <li><a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/filmes1.html" title="Quem Somos">Filmes</a></li>
+            </ul>
+         </nav>
+        <h2>Séries em destaque: </h2> 
+    </header>
+    
+    <div>
+        <h3>Hannibal</h3>
+    <iframe data-src="https://www.youtube.com/embed/4N8CQ-T6iUs" style="background-image:url(https://i.ytimg.com/vi/4N8CQ-T6iUs/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/4N8CQ-T6iUs" data-done="Loaded"></iframe>
+    <p> Will Graham é um investigador do FBI que tem o talento de se inserir nas cenas dos crimes e visualizar exatamente o que aconteceu. Tal capacidade ajuda a solucionar muitos casos, mas também exige muito dele, obrigando-o a consultar o psiquiatra Hannibal Lecter. Mal sabe Graham, que o dr. Lecter não é um psiquiatra comum.</p>
+    <footer>
+        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre a série.</a>
+     </footer>
+
+     <h4>O Nevoeiro</h4>
+    <iframe data-src="https://www.youtube.com/embed/bRNajdYu6pQ" style="background-image:url(https://i.ytimg.com/vi/bRNajdYu6pQ/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/bRNajdYu6pQ" data-done="Loaded"></iframe>
+    <p> Após uma violenta tempestade devastar a cidade de Maine, David Drayton (Thomas Jane) e Billy (Nathan Gamble), seu filho de 8 anos, correm rumo ao supermercado, temendo que os suprimentos se esgotem. Porém um estranho nevoeiro toma conta da cidade, o que faz com que David, Billy e outras pessoas fiquem presas no supermercado. Logo David descobre que há algo de sobrenatural envolvido e que, caso deixem o local, isto pode ser fatal.</p>
+    <footer>
+        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre a série.</a>
+     </footer>
+
+     <h5>Scream</h5>
+    <iframe data-src="https://www.youtube.com/embed/WUejkrfF6u0" style="background-image:url(https://i.ytimg.com/vi/WUejkrfF6u0/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/WUejkrfF6u0" data-done="Loaded"></iframe>
+    <p> Depois de um incidente de cyber-bullying resultar em um assassinato brutal, a violência reacende a memória de uma série de assassinatos que ocorreram no passado em Lakewood, que intrigaram alguns e talvez tenham inspirado um novo serial killer. Um grupo de adolescentes, com dois velhos amigos tentando se reconectarem, se tornam amantes, inimigos, suspeitos, alvos e vítimas de um assassino que está à procura de sangue.</p>
+    <footer>
+        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre a série.</a>
+     </footer>
+    </div>
+    </body>
+ </html>
+CSS
+*{
+    background-color:#6e6b6b;
+}
+.w3_bg{
+        display: flex;
+        float: bottom;
+}
+header h1 {
+    background-color: #c30065;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    color: #000000;
+    position: fixed fill;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+
+    width: 100%;
+    top: 0;
+ 
+
+}
+header h2{
+        background-color: #c30065;
+        text-align: center;
+        font-size: 35px;
+        margin: auto;
+        color: #000000;
+        box-shadow: 0px 0px 20px rgba(64, 3, 3, 0.1);
+
+        width: 100%;      
+    }
+
+    h3, h4, h5, h6 {
+        background-color: #c30065;
+        text-align: center;
+        font-size: 50px;
+        margin: auto;
+        color: #000000;
+        position: fixed fill;
+}
+
+.menu ul {
+    text-align: right;
+    list-style:none;
+    width:100%;
+    float:left;
+    padding:0px;
+    gap: 10px;
+    background-color:#6e6b6b; 
+    box-shadow: 1px 0px 1.2px 0px #e3e3e3;
+}
+
+.menu ul li a {
+    text-align: right;
+    text-decoration:none;   
+    color: #000000;
+    font-family: 'open_sansregular';
+}
+
+.menu ul li {
+    text-align: right;
+    position:relative;
+    display: block;
+    width: 100%;
+    float:left;
+    margin: 4px 15px;
+    padding: 0px;
+    border-width: 0px 0px 3px 0px;    
+    border-color:transparent;
+    border-style:solid;
+}
+
+.menu ul li:hover a {
+    text-align: right;
+    color: #c30065;
+    border-width: 0px 0px 3px 0px;    
+    border-color:#c30065;
+    border-style:solid;
+
+}
+
+
+/*768PX BREAKPOINT*/
+@media (min-width:48em){
+
+    .menu ul li { display:block; width:auto; margin: 8px 20px; padding: 10px;}
+
+} 
+video{
+    display: flex;
+    width: 100px;
+}
+ p{
+    color: #000000;
+        display: flex;
+        float: left;
+}
+.footer, a{
+    color: rgb(255, 255, 255);
+}
+
+SITE 3 FILMES CLÁSSICOS
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Amantes De Terror</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet"  type="text/css" href="filmesclassicos.css">
+        <link rel="stylesheet"  type="text/css" href="reset.css">
+
+    </head>
+    <header>
+        <h1>Seja bem vindo ao</h1>
+        <nav class="menu"> 
+            <ul>
+                 <li><a href="#" title="Home">Séries</a></li>  
+                 <li><a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/inicioterror.html" title="Quem Somos">Filmes</a></li>
+            </ul>
+         </nav>
+        <h2>Filmes Clássicos: </h2> 
+    </header>
+
+    <h3>RING - O CHAMADO (1998)</h3>
+    <div class="imagem">
+        <img id="imagem1" src="https://br.web.img3.acsta.net/medias/nmedia/18/97/53/08/20534291.jpg">
+      <p>Após a morte de Tomoko Oishi (Yuko Takeuchi), um parente, uma repórter, Reiko Asakawa (Nanako Matsushima), ouve histórias de um vídeo que mata quem o vê uma semana exatamente após assisti-lo. No início não dá importância aos rumores, mas ao descobrir que um amigo de Tomoko, que assistiu o vídeo, morreu exatamente uma semana depois ela começa a investigar. Após ver a fita estranhas coisas começam a acontecer e, assim, pede ajuda ao seu ex-marido, Ryuji Takayama (Hiroyuki Sanada), para tentar deter o relógio da morte, que começou a fazer tique-taque uma vez mais. Além disto ela toma conhecimento da existência de Sadako (Rie Inou), filha de uma famosa para-psicóloga submetida décadas antes a vários experimentos. Quando Yoichi (Rikiya Otaka), seu pequeno filho, assiste ao conteúdo da fita isto a lança em uma corrida contra o tempo para encontrar um meio de combater a sinistra maldição, que se manifestará em sete dias.</p>
+     </div>
+
+     <h4>O EXORCISTA</h4>
+     <div class="imagem">
+         <img id="imagem2" src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/26/84/19873738.jpg">
+       <p>Em Georgetown, Washington, uma atriz vai gradativamente tomando consciência que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que também um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão.</p>
+      </div>
+
+      <h5>POSSUÍDOS</h5>
+     <div class="imagem">
+         <img id="imagem2" src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/32/05/20091395.jpg">
+       <p>Após a execução de um serial killer, John Hobbes (Denzel Washington), um detetive, acredita que parte dos seus problemas terminaram, mas logo repara que pessoas na rua cantam a mesma melodia que o criminoso cantou na câmara de gás. Gradativamente o policial conclui que todos estavam possuídos por Azazel, um anjo amaldiçoado que não tem forma mas que com um simples toque consegue penetrar em quase todas as pessoas. Quando Hobbes é forçado a matar um professor, que estava possuído por Azazel, fica claro que ele precisa proteger as pessoas desta entidade demoníaca.</p>
+      </div>
+ 
+      <h6>UMA NOITE ALUCINANTE</h6>
+      <div class="imagem">
+          <img id="imagem2" src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/29/47/20028669.jpg">
+        <p>Cinco estudantes da Universidade de Michigan decidem passar um final de semana em uma casa isolada. Lá eles encontram o livro dos mortos, um documento que data da época da Babilônia e que está relacionado ao livro dos mortos egípcio. Enquanto vasculham a casa os amigos gravam em fita alguns encantamentos demoníacos, escritos no livro. A partir de então eles são possuídos por espiritos, um a um. O primeiro alvo é Cheryl (Ellen Sandweiss), brutalmente estuprada pelas forças do mal. Ash (Bruce Campbell), seu irmão, resolve levá-la a uma cidade próxima, mas descobre que a única ponte que leva ao local está destruída. Logo a transformação de Cheryl em demônio é concluída, resultando em seu ataque aos amigos</p>
+       </div>
+  CSS
+*{
+    background-color:#6e6b6b;
+  
+}
+
+header h1 {
+background-color: #c30065;
+text-align: center;
+font-size: 50px;
+margin: auto;
+color: #000000;
+position: fixed fill;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+
+width: 100%;
+top: 0;
+
+}
+header h2{
+    background-color: #c30065;
+    text-align: center;
+    font-size: 35px;
+    margin: auto;
+    color: #000000;
+    box-shadow: 0px 0px 20px rgba(64, 3, 3, 0.1);
+
+    width: 100%;      
+}
+
+h3, h4, h5, h6 {
+    background-color: #c30065;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    color: #000000;
+    position: fixed fill;
+}
+
+.menu ul {
+    text-align: right;
+    list-style:none;
+    width:100%;
+    float:left;
+    padding:0px;
+    gap: 10px;
+    background-color:#6e6b6b; 
+    box-shadow: 1px 0px 1.2px 0px #e3e3e3;
+}
+
+.menu ul li a {
+    text-align: right;
+    text-decoration:none;   
+    color: #000000;
+    font-family: 'open_sansregular';
+}
+
+.menu ul li {
+    text-align: right;
+    position:relative;
+    display: block;
+    width: 100%;
+    float:left;
+    margin: 4px 15px;
+    padding: 0px;
+    border-width: 0px 0px 3px 0px;    
+    border-color:transparent;
+    border-style:solid;
+}
+
+.menu ul li:hover a {
+    text-align: right;
+    color: #c30065;
+    border-width: 0px 0px 3px 0px;    
+    border-color:#c30065;
+    border-style:solid;
+
+}
+
+
+/*768PX BREAKPOINT*/
+@media (min-width:48em){
+
+    .menu ul li { display:block; width:auto; margin: 8px 20px; padding: 10px;}
+
+} 
+
+.imagem{
+    display: flex;
     float: left;
+    font-size: 20px;
+}
+
+img{
+
+    float: left;
+    left: 25px;
+    width: 100px;
+
+SITE 4 FILMES LANÇAMENTOS
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Amantes De Terror</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet"  type="text/css" href="filmeslanca.css">
+        <link rel="stylesheet"  type="text/css" href="reset.css">
+
+    </head>
+    <header>
+        <h1>Seja bem vindo ao</h1>
+        <nav class="menu"> 
+            <ul>
+                 <li><a href="#" title="Home">Séries</a></li>  
+                 <li><a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/inicioterror.html" title="Quem Somos">Filmes</a></li>
+            </ul>
+         </nav>
+        <h2>Lançamentos 2023:</h2> 
+    </header>
+
+    <h3>M3GAN</h3>
+    <div class="imagem">
+        <img id="imagem1" src="https://br.web.img2.acsta.net/c_310_420/pictures/22/10/11/19/20/4591973.jpg">
+      <p>Em M3gan, seguimos uma jovem garota chamada Cady, que teve seus pais mortos em um acidente de carro e é deixado sob os cuidados de sua tia Gemma, uma roboticista de uma empresa high-tech de brinquedos de criança em Seattle. Gemma trabalha no desenvolvimento chamado M3GAN, um robô humanoide, designada para ajudar a criança e ser companhia para elas. Mas após um teste que ocorreu mal, o projeto foi cancelado. Sem ter alguma conexão com a sobrinha e sempre sendo workaholic, Gemma presenteia M3gan para a sobrinha após ela querer a "boneca". O modelo finalizado é emparelhado com Cady, e convence a empresa do potencial de sucesso do projeto após observar as interações de M3GAN com Cady. À medida que o tempo passa, M3gan acaba ficando mais independente e andando pela casa sem qualquer ordem, além de matar qualquer coisa que ela considere uma ameaça para Cady. Mas os dias passam e M3gan pode parecer mais uma ameaça para Cady e Gemma do que imaginado.    </p>
+     </div>
+
+     <h4>BATEM À PORTA</h4>
+     <div class="imagem">
+         <img id="imagem2" src="https://br.web.img3.acsta.net/c_310_420/pictures/22/12/28/21/18/5098506.jpg">
+       <p>Em Batem à Porta, Eric (Ben Aldrige) e Andrew (Jonathan Groff) estão de férias com sua filha Wen (Kristen Cui) em uma cabana isolada no campo. Enquanto brincava na floresta, o pequeno Wen conhece o educado Leonard (Dave Bautista). A tranquilidade da família então chega a um fim abrupto quando ele, acompanhado por três outros estranhos armados (Rupert Grint, Nikki Amuka-Bird e Abby Quinn), conseguem entrar à força na cabana e faz a família como refém. Os invasores contam a seus reféns sobre uma visão misteriosa e os forçam a tomar uma decisão inimaginável, um sacrifício para evitar o apocalipse iminente. Com acesso limitado ao mundo exterior, a família deve decidir em que acredita antes que tudo se perca: eles realmente pretendem salvar o mundo ou Leonard e seus companheiros fazem parte de um culto insano?</p>
+      </div>
+
+      <h5>RENFIELD - DANDO SANGUE PELO CHEFE</h5>
+     <div class="imagem">
+         <img id="imagem2" src="https://br.web.img3.acsta.net/c_310_420/pictures/23/04/26/22/17/0981041.jpg">
+       <p>Renfield - Dando Sangue Pelo Chefe é um filme de comédia, terror e fantasia sombria, que conta a história de Renfield (Nicholas Hoult), o leal capanga do temido Conde Drácula (Nicolas Cage). Renfield se dedica totalmente a servir o Conde e obedece prontamente todas as suas ordens, incluindo encontrar as presas perfeitas para que o vampiro possa continuar vivendo por toda a eternidade. Porém, após tantos séculos de servidão, Renfield finalmente tem um momento de lucidez e decide que quer deixar seu posto para começar uma nova vida longe do “chefe” - vontade que se intensifica ainda mais quando ele acaba se apaixonando.</p>
+      </div>
+ 
+      <h6>SOBRENATURAL: A PORTA VERMELHA</h6>
+      <div class="imagem">
+          <img id="imagem2" src="https://br.web.img3.acsta.net/c_310_420/pictures/23/06/29/20/37/2370331.jpg                                                         ">
+        <p>Sobrenatural: A Porta Vermelha, quinto filme da franquia, se passa 10 anos após os eventos de Sobrenatural: Capítulo 2. A trama de Sobrenatural: A Porta Vermelha volta a seguir a família Lambert, formada por Renai (Rose Byrne), Josh (Patrick Wilson, Foster (Andrew Astor), Dalton (Ty Simpkins) e Kali (Juliana Davies). Josh segue para o leste para deixar seu filho, Dalton, na faculdade. Dalton acabou de ingressar na faculdade, no entanto, o sonho do jovem logo se torna um pesadelo, e ele logo se dá conta de que ainda está muito longe de conseguir levar uma vida normal. Quando os demônios reprimidos de seu passado voltam repentinamente para assombrar os dois, ele e o pai são obrigados a retornar à macabra dimensão da Porta Vermelha, enfrentando uma série de novas e ainda mais terríveis ameaças e encarando seus medos mais profundos para, só assim, banirem seus demônios de uma vez por todas.</p>
+       </div>
+CSS
+*{
+    background-color:#6e6b6b;
+  
+}
+
+header h1 {
+background-color: #c30065;
+text-align: center;
+font-size: 50px;
+margin: auto;
+color: #000000;
+position: fixed fill;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+
+width: 100%;
+top: 0;
+
+}
+header h2{
+    background-color: #c30065;
+    text-align: center;
+    font-size: 35px;
+    margin: auto;
+    color: #000000;
+    box-shadow: 0px 0px 20px rgba(64, 3, 3, 0.1);
+
+    width: 100%;      
+}
+
+h3, h4, h5, h6 {
+    background-color: #c30065;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+    color: #000000;
+    position: fixed fill;
+}
+
+.menu ul {
+    text-align: right;
+    list-style:none;
+    width:100%;
+    float:left;
+    padding:0px;
+    gap: 10px;
+    background-color:#6e6b6b; 
+    box-shadow: 1px 0px 1.2px 0px #e3e3e3;
+}
+
+.menu ul li a {
+    text-align: right;
+    text-decoration:none;   
+    color: #000000;
+    font-family: 'open_sansregular';
+}
+
+.menu ul li {
+    text-align: right;
+    position:relative;
+    display: block;
+    width: 100%;
+    float:left;
+    margin: 4px 15px;
+    padding: 0px;
+    border-width: 0px 0px 3px 0px;    
+    border-color:transparent;
+    border-style:solid;
+}
+
+.menu ul li:hover a {
+    text-align: right;
+    color: #c30065;
+    border-width: 0px 0px 3px 0px;    
+    border-color:#c30065;
+    border-style:solid;
+
+}
+
+
+/*768PX BREAKPOINT*/
+@media (min-width:48em){
+
+    .menu ul li { display:block; width:auto; margin: 8px 20px; padding: 10px;}
+
+} 
+
+.imagem{
+    display: flex;
+    float: left;
+    font-size: 20px;
+}
+
+img{
+
+    float: left;
+    left: 25px;
     width: 100px;
 }
 
-SITE 2 COMENTÁRIO
+SITE 5 COMENTÁRIO
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
@@ -118,26 +610,36 @@ SITE 2 COMENTÁRIO
     <body>
     <header>
         <h1>Seja bem vindo ao </h1>
+        <nav class="menu"> 
+            <ul>
+                 <li><a href="#" title="Home">Séries</a></li>  
+                 <li><a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/filmes1.html" title="Quem Somos">Filmes</a></li>
+            </ul>
+         </nav>
+        <h2>De sua nota e seu comentário para o filme ou serie :)</h2>
     </header>
 
     <form action="processa.php" method="get">
-    <label>Nota:</label>
+    <Label>Nota:</Label>
 
+  
+     
     <link rel="stylesheet" href="comentario.css">
     <div class="estrelas">
-      <input type="radio" id="cm_star-empty" name="fb" value="" checked/>
-      <label for="cm_star-1"><i class="fa"></i></label>
-      <input type="radio" id="cm_star-1" name="fb" value="1"/>
-      <label for="cm_star-2"><i class="fa"></i></label>
-      <input type="radio" id="cm_star-2" name="fb" value="2"/>
-      <label for="cm_star-3"><i class="fa"></i></label>
-      <input type="radio" id="cm_star-3" name="fb" value="3"/>
-      <label for="cm_star-4"><i class="fa"></i></label>
-      <input type="radio" id="cm_star-4" name="fb" value="4"/>
-      <label for="cm_star-5"><i class="fa"></i></label>
-      <input type="radio" id="cm_star-5" name="fb" value="5"/>
-    </div>
-        <label>Faça seu comentário:</label>
+        <input type="radio" id="cm_star-empty" name="fb" value="" checked/>
+        <label for="cm_star-1"><i class="fa"></i></label>
+        <input type="radio" id="cm_star-1" name="fb" value="1"/>
+        <label for="cm_star-2"><i class="fa"></i></label>
+        <input type="radio" id="cm_star-2" name="fb" value="2"/>
+        <label for="cm_star-3"><i class="fa"></i></label>
+        <input type="radio" id="cm_star-3" name="fb" value="3"/>
+        <label for="cm_star-4"><i class="fa"></i></label>
+        <input type="radio" id="cm_star-4" name="fb" value="4"/>
+        <label for="cm_star-5"><i class="fa"></i></label>
+        <input type="radio" id="cm_star-5" name="fb" value="5"/>
+      </div>
+        
+        <Label>Faça seu comentário:</Label>
         <input type="text" name="comentário" id="f">
         <input type="submit" value="Enviar sua nota e comentário">
     </form>
@@ -145,19 +647,34 @@ SITE 2 COMENTÁRIO
 </html>
 CSS
 *{
-        background-color:#ffffff;
+        background-color:#6e6b6b;
       
 }
 
 header h1 {
-    background-color: #c30065;
-    text-align: center;
-    font-size: 50px;
-    margin: auto;
-    color: #000000;
-    position: fixed fill;
+  background-color: #c30065;
+  text-align: center;
+  font-size: 50px;
+  margin: auto;
+  color: #000000;
+  position: fixed fill;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+
+  width: 100%;
+  top: 0;
 
 }
+header h2{
+        background-color: #c30065;
+        text-align: center;
+        font-size: 35px;
+        margin: auto;
+        color: #000000;
+        box-shadow: 0px 0px 20px rgba(64, 3, 3, 0.1);
+       
+        width: 100%;   
+        }
+
 
 
 .estrelas input[type=radio] {
@@ -171,9 +688,25 @@ header h1 {
   color: rgb(185, 3, 60);
 }
 .estrelas input[type=radio]:checked ~ label i.fa:before {
-  color: #CCC;
+  color: #ffffff;
 }
             
+.chk input {
+  display: none;
+}
+
+.chk span {
+  width: 12px;
+  height: 12px;
+  display: block;
+  background-color: #fff;
+  border: 1px solid #DDD;
+}
+
+.chk input:checked + span {
+  background-color: #c03;
+}
+
 form {
     padding: 40px;
     width: 350;
@@ -181,7 +714,55 @@ form {
    
 }
 
+.menu ul {
+  text-align: right;
+  list-style:none;
+  width:100%;
+  float:left;
+  padding:0px;
+  gap: 10px;
+  background-color:#6e6b6b; 
+  box-shadow: 1px 0px 1.2px 0px #e3e3e3;
+}
 
+.menu ul li a {
+  text-align: right;
+  text-decoration:none;   
+  color: #000000;
+  font-family: 'open_sansregular';
+}
+
+.menu ul li {
+  text-align: right;
+  position:relative;
+  display: block;
+  width: 100%;
+  float:left;
+  margin: 4px 15px;
+  padding: 0px;
+  border-width: 0px 0px 3px 0px;    
+  border-color:transparent;
+  border-style:solid;
+}
+
+.menu ul li:hover a {
+  text-align: right;
+  color: #c30065;
+  border-width: 0px 0px 3px 0px;    
+  border-color:#c30065;
+  border-style:solid;
+
+}
+
+
+/*768PX BREAKPOINT*/
+@media (min-width:48em){
+
+  .menu ul li { display:block; width:auto; margin: 8px 20px; padding: 10px;}
+
+} 
+
+   
 
 input[type="text"],
 input[type="password"],
@@ -195,5 +776,7 @@ select {
 
 }
     input[type="submit"]:hover {
-        background-color: #c30065;
+      color: #c30065;
+
+     
 }
