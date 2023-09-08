@@ -9,7 +9,9 @@ SITE 1 INICIO TERROR
 
     </head>
     <header>
+        <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv">
         <h1>Seja bem vindo ao Amantes de Terror!</h1>
+        <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv">
         <nav id="menu" >
             <ul>
                 <li><a href="home.html">Home ♥</a></li>
@@ -23,39 +25,46 @@ SITE 1 INICIO TERROR
     <body>
     <h2>Filmes em destaque: </h2>
     <h3>Pânico VI</h3>
-    <iframe class="w3_bg" data-src="https://www.youtube.com/embed/QOgdGhA9gos" style="background-image:url(https://i.ytimg.com/vi/QOgdGhA9gos/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/QOgdGhA9gos" data-done="Loaded"></iframe>
+    <iframe src="https://www.youtube.com/embed/Qz-xm5dEpf4"></iframe>
     <p>Sam (Melissa Barrera), Tara (Jenna Ortega), Mindy (Jasmin Savoy Brown) e Chad (Mason Gooding) estão fartos. Depois de sobreviver ao massacre final de Ghostface em Woodsboro, os quatro se mudam sem cerimônia para Nova York. Lá, os dois irmãos querem começar uma nova vida, por assim dizer, e deixar a pequena cidade e suas experiências traumáticas para trás. Mas o maldito assassino com uma máscara de fantasma e uma lâmina afiada não pode ser abalado tão facilmente, porque de repente ele também aparece na Big Apple. Na rua, no metrô, no supermercado – aparentemente em todos os lugares ele aproveita a agitação da cidade grande para desaparecer na multidão com a mesma rapidez com que apareceu antes. E embora Sam, Tara, Mindy e Chad já tenham conhecido o assassino, desta vez eles não podem confiar em sua experiência. Porque quem está por trás da máscara tem novos truques na manga.</p>
-    <footer>
+    <h4>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
-     </footer>
+    </h4>
 
     <h3>Pearl</h3>
-    <iframe class="w3_bg" data-src="https://www.youtube.com/embed/7MRcuN9_Pfo" style="background-image:url(https://i.ytimg.com/vi/7MRcuN9_Pfo/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/7MRcuN9_Pfo" data-done="Loaded"></iframe>
+    <iframe src="https://www.youtube.com/embed/7MRcuN9_Pfo"></iframe>
     <p> Pearl é mais um capítulo do mundo distorcido de X do cineasta Ti West. O ano é 1918, e a jovem Pearl (Mia Goth) está obcecada em se tornar famosa. Presa na fazenda isolada de sua família, Pearl se vê obrigada a cuidar de seu pai doente, e viver sob a vigilância constante de sua amarga e autoritária mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, Pearl encontra suas ambições, tentações e repressões entrando em conflito. Nesta história da origem da icônica vilã de X, quando o sonho de ser finalmente uma estrela é negado a ela, ela começa a assassinar, até alcançar o que deseja. Filmado secretamente e simultaneamente com X: A Marca da Morte (2022). Pearl serve como prequela do filme, mostrando o início da vida da personagem-título décadas antes dos eventos de X.</p>
-    <footer>
+    <h4>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
-     </footer>
+    </h4>
 
      <h3>Rua do Medo</h3>
-    <iframe data-src="https://www.youtube.com/embed/3jiRtYuunZw" style="background-image:url(https://i.ytimg.com/vi/3jiRtYuunZw/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/3jiRtYuunZw" data-done="Loaded"></iframe>
+    <iframe src="https://www.youtube.com/embed/3jiRtYuunZw"></iframe>
     <p>Rua do Medo é a adaptação da série de livros de mesmo nome de R.L. Stine. Depois da colega Heather (Maya Hawke) ser morta na saída do trabalho, um grupo de adolescentes passa a ser perseguido por um grupo de assassinos mascarados em 1994, na pequena cidade de Shadyside. Quando começam a investigar as mortes, eles descobrem que não são as primeiras vítimas e que a cidade tem uma longa história de assassinatos brutais que acontecem há anos. Agora eles precisarão descobrir uma forma de impedir os assassinos ou, então, não sobreviverão até o dia seguinte.</p>
-    <footer>
+    <h4>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
-     </footer>
+    </h4>
 
      <h3>Hereditário</h3>
-    <iframe data-src="https://www.youtube.com/embed/aVqszEgRYsc" style="background-image:url(https://i.ytimg.com/vi/aVqszEgRYsc/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/aVqszEgRYsc" data-done="Loaded"></iframe>
+    <iframe src="https://www.youtube.com/embed/aVqszEgRYsc"></iframe>
     <p> Quando sua mãe - que sofria de distúrbios mentais - falece, Annie (Toni Collette), seu marido (Gabriel Byrne), filho (Alex Wolff) e filha (Milly Shapiro) lamentam sua perda. Todavia, após a morte da reclusa avó, a família Graham começa a desvendar algumas coisas. A família recorre a diferentes meios para lidar com sua dor, incluindo Annie e sua filha flertando com o sobrenatural. Mesmo após a partida da matriarca, ela permanece como se fosse um sombra sobre a família, especialmente sobre a solitária neta adolescente, Charlie, por quem ela sempre manteve uma fascinação não usual. Com um crescente terror tomando conta da casa, a família explora lugares mais obscuros para escapar do infeliz destino que herdaram. Cada um deles começa a ter experiências perturbadoras e sobrenaturais ligadas aos segredos sinistros e traumas emocionais que passaram pelas gerações de sua família.    </p>
-    <footer>
+    <h4>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
-     </footer>
-     </div>
-     </body>
+    </h4>
+    <footer>
+    <ul>
+        <h5>Nos siga nas redes sociais:</h5>
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">Instagram</a></li>
+        <li><a href="#">Facebook</a></li>
+    </ul>
+    </footer>
+    </body>
 </html>
 CSS 1
 *{
-  margin: 0 auto;
-  padding: 0 auto;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 header{
@@ -63,10 +72,17 @@ header{
     position: fixed;
     top: 0;
     left: 0;
+    padding: 5px;
     background-color: #ff319c;
 }
+img{
+    width: 50px;
+}
+img, header h1{
+    display: inline-block;
+    
+}
 header h1 {
-    text-align: center;
     font-size: 45px;
     color: #000000;
 }
@@ -98,11 +114,10 @@ header h1 {
     text-align: left;
 
 }
-
 body {
     position: relative;
     background-color: #ffd8e1;
-    margin-top: 50px;
+    margin: 55px 10px 10px 10px;
     padding: 80px;
     text-align: left;
     font-size: 15px;
@@ -118,15 +133,46 @@ body h2{
   }
 h3{
     font-size: 20px;
+    margin: 10px 0px 10px 0px;
+}
+h4{
+    margin: 10px 0px 10px 0px;
 }
 
-footer a{
+h4 a{
     text-decoration: none;
     color:#ff0084;
 }
-footer a:hover{
+h4 a:hover{
     text-decoration: underline;
     color:#fcfcfc;
+}
+footer{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: #ff319c;
+}
+h5{
+    margin: 5px 10px 0px 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+footer ul li {
+    margin: 0px 5px 5px 0px;
+    display: inline-block;
+    font-family: arial;
+    color:black;
+}
+footer ul li a {
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color:black;
+}
+footer ul li a:hover{
+    color:#fcfcfc
 }
 SITE 2 SÉRIES
 <!DOCTYPE html>
