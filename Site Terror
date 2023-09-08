@@ -4,23 +4,24 @@ SITE 1 INICIO TERROR
     <head>
         <title>Amantes De Terror</title>
         <meta charset="utf-8">
-        <link rel="stylesheet"  type="text/css" href="inicioterror.css">
+        <link rel="stylesheet"  type="text/css" href="siteterror.css">
         <link rel="stylesheet"  type="text/css" href="reset.css">
 
     </head>
     <header>
-        <h1>Seja bem vindo ao</h1>
-        <nav class="menu"> 
+        <h1>Seja bem vindo ao Amantes de Terror!</h1>
+        <nav id="menu" >
             <ul>
-                 <li><a href="#" title="Home">Séries</a></li>  
-                 <li><a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/filmes1.html" title="Quem Somos">Filmes</a></li>
+                <li><a href="home.html">Home ♥</a></li>
+                <li><a href="filmes-destaque.html">Filmes em destaque</a></li>
+                <li><a href="filmes-classicos.html">Filmes clássicos</a></li>
+                <li><a href="lancamentos.html">Lançamentos</a></li>
+                <li><a href="series.html">Séries</a></li>
             </ul>
-         </nav>
-        <h2>Filmes em destaque: </h2> 
+        </nav>
     </header>
-
-    <div>
-        <footer class="footer"/>
+    <body>
+    <h2>Filmes em destaque: </h2>
     <h3>Pânico VI</h3>
     <iframe class="w3_bg" data-src="https://www.youtube.com/embed/QOgdGhA9gos" style="background-image:url(https://i.ytimg.com/vi/QOgdGhA9gos/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/QOgdGhA9gos" data-done="Loaded"></iframe>
     <p>Sam (Melissa Barrera), Tara (Jenna Ortega), Mindy (Jasmin Savoy Brown) e Chad (Mason Gooding) estão fartos. Depois de sobreviver ao massacre final de Ghostface em Woodsboro, os quatro se mudam sem cerimônia para Nova York. Lá, os dois irmãos querem começar uma nova vida, por assim dizer, e deixar a pequena cidade e suas experiências traumáticas para trás. Mas o maldito assassino com uma máscara de fantasma e uma lâmina afiada não pode ser abalado tão facilmente, porque de repente ele também aparece na Big Apple. Na rua, no metrô, no supermercado – aparentemente em todos os lugares ele aproveita a agitação da cidade grande para desaparecer na multidão com a mesma rapidez com que apareceu antes. E embora Sam, Tara, Mindy e Chad já tenham conhecido o assassino, desta vez eles não podem confiar em sua experiência. Porque quem está por trás da máscara tem novos truques na manga.</p>
@@ -28,142 +29,105 @@ SITE 1 INICIO TERROR
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
      </footer>
 
-     <h4>Pearl</h4>
+    <h3>Pearl</h3>
     <iframe class="w3_bg" data-src="https://www.youtube.com/embed/7MRcuN9_Pfo" style="background-image:url(https://i.ytimg.com/vi/7MRcuN9_Pfo/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/7MRcuN9_Pfo" data-done="Loaded"></iframe>
     <p> Pearl é mais um capítulo do mundo distorcido de X do cineasta Ti West. O ano é 1918, e a jovem Pearl (Mia Goth) está obcecada em se tornar famosa. Presa na fazenda isolada de sua família, Pearl se vê obrigada a cuidar de seu pai doente, e viver sob a vigilância constante de sua amarga e autoritária mãe devota. Desejando uma vida glamourosa como ela viu nos filmes, Pearl encontra suas ambições, tentações e repressões entrando em conflito. Nesta história da origem da icônica vilã de X, quando o sonho de ser finalmente uma estrela é negado a ela, ela começa a assassinar, até alcançar o que deseja. Filmado secretamente e simultaneamente com X: A Marca da Morte (2022). Pearl serve como prequela do filme, mostrando o início da vida da personagem-título décadas antes dos eventos de X.</p>
     <footer>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
      </footer>
 
-     <h5>Rua do Medo</h5>
+     <h3>Rua do Medo</h3>
     <iframe data-src="https://www.youtube.com/embed/3jiRtYuunZw" style="background-image:url(https://i.ytimg.com/vi/3jiRtYuunZw/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/3jiRtYuunZw" data-done="Loaded"></iframe>
     <p>Rua do Medo é a adaptação da série de livros de mesmo nome de R.L. Stine. Depois da colega Heather (Maya Hawke) ser morta na saída do trabalho, um grupo de adolescentes passa a ser perseguido por um grupo de assassinos mascarados em 1994, na pequena cidade de Shadyside. Quando começam a investigar as mortes, eles descobrem que não são as primeiras vítimas e que a cidade tem uma longa história de assassinatos brutais que acontecem há anos. Agora eles precisarão descobrir uma forma de impedir os assassinos ou, então, não sobreviverão até o dia seguinte.</p>
     <footer>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
      </footer>
 
-     <h6>Hereditário</h6>
+     <h3>Hereditário</h3>
     <iframe data-src="https://www.youtube.com/embed/aVqszEgRYsc" style="background-image:url(https://i.ytimg.com/vi/aVqszEgRYsc/sddefault.jpg)" allowfullscreen="" allow="accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/aVqszEgRYsc" data-done="Loaded"></iframe>
     <p> Quando sua mãe - que sofria de distúrbios mentais - falece, Annie (Toni Collette), seu marido (Gabriel Byrne), filho (Alex Wolff) e filha (Milly Shapiro) lamentam sua perda. Todavia, após a morte da reclusa avó, a família Graham começa a desvendar algumas coisas. A família recorre a diferentes meios para lidar com sua dor, incluindo Annie e sua filha flertando com o sobrenatural. Mesmo após a partida da matriarca, ela permanece como se fosse um sombra sobre a família, especialmente sobre a solitária neta adolescente, Charlie, por quem ela sempre manteve uma fascinação não usual. Com um crescente terror tomando conta da casa, a família explora lugares mais obscuros para escapar do infeliz destino que herdaram. Cada um deles começa a ter experiências perturbadoras e sobrenaturais ligadas aos segredos sinistros e traumas emocionais que passaram pelas gerações de sua família.    </p>
     <footer>
         <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer comentário sobre o filme.</a>
      </footer>
      </div>
-       </body>
+     </body>
 </html>
 CSS 1
 *{
-        background-color:#6e6b6b;
+  margin: 0 auto;
+  padding: 0 auto;
+  box-sizing: border-box;
 }
-
-.w3_bg{
-        display: flex;
-        float: bottom;
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #ff319c;
 }
 header h1 {
-    background-color: #c30065;
     text-align: center;
-    font-size: 50px;
-    margin: auto;
+    font-size: 45px;
     color: #000000;
-    position: fixed fill;
-    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
-    width: 100%;
-    top: 0;
- 
-
-}
-header h2{
-        background-color: #c30065;
-        text-align: center;
-        font-size: 35px;
-        margin: auto;
-        color: #000000;
-        box-shadow: 0px 0px 20px rgba(64, 3, 3, 0.1);
-        
-        width: 100%;      
-       
-}
- h3, h4, h5, h6 {
-        background-color: #c30065;
-        text-align: center;
-        font-size: 50px;
-        margin: auto;
-        color: #000000;
-        position: fixed fill;
 }
 
 
-.menu ul {
-        text-align: right;
-        list-style:none;
-        width:100%;
-        float:left;
-        padding:0px;
-        gap: 10px;
-        background-color:#6e6b6b; 
-        box-shadow: 1px 0px 1.2px 0px #e3e3e3;
-    }
-    
-    .menu ul li a {
-        text-align: right;
-        text-decoration:none;   
-        color: #000000;
-        font-family: 'open_sansregular';
-    }
-    
-    .menu ul li {
-        text-align: right;
-        position:relative;
-        display: block;
-        width: 100%;
-        float:left;
-        margin: 4px 15px;
-        padding: 0px;
-        border-width: 0px 0px 3px 0px;    
-        border-color:transparent;
-        border-style:solid;
-    }
-    
-    .menu ul li:hover a {
-        text-align: right;
-        color: #c30065;
-        border-width: 0px 0px 3px 0px;    
-        border-color:#c30065;
-        border-style:solid;
-    
-    }
-    
-    
-    /*768PX BREAKPOINT*/
-    @media (min-width:48em){
-    
-        .menu ul li { display:block; width:auto; margin: 8px 20px; padding: 10px;}
-    
-    } 
+#menu ul{
+    list-style-type: none;
+    text-align: right;
+    padding: 20px;
+}
+#menu ul li{
+    display: inline;
+    padding: 10px;
+}
+#menu ul li a{
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    font-family: arial;
+    color:black;
+}
+#menu ul li a:hover{
+    color:#fcfcfc;
+    text-decoration: underline;
+    transition: .3s;
+}
+#menu ul li:first-child a{
+    color:#ffdfe9;
+    text-align: left;
 
-     
-p{
-        color: #000000;
-        display: flex;
-        float: left;
-        text-align: left;
 }
-video{
-    display: flex;
-    width: 100px;
-}
-.footer, a{
-        color: rgb(255, 255, 255);
-}
-html, body {
-        min-height: 100%;
-    }
-    body {
-        padding: 0;
-        margin: 0;
-    }
 
+body {
+    position: relative;
+    background-color: #ffd8e1;
+    margin-top: 50px;
+    padding: 80px;
+    text-align: left;
+    font-size: 15px;
+    color: #000000;
+    font-family: arial;
+  }
+body h2{
+    font-size: 35px;
+    margin: auto;
+    color: #ff0084;
+    width: 100%;      
+   
+  }
+h3{
+    font-size: 20px;
+}
+
+footer a{
+    text-decoration: none;
+    color:#ff0084;
+}
+footer a:hover{
+    text-decoration: underline;
+    color:#fcfcfc;
+}
 SITE 2 SÉRIES
 <!DOCTYPE html>
 <html lang="pt-br">
