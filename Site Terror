@@ -352,9 +352,9 @@ body {
      </head>
      <body>
         <header>
-            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "imagem1"> 
+            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "gif1"> 
             <h1>Seja bem vindo ao Amantes de Terror!</h1>
-            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "imagem2">
+            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "gif2">
             <nav id="menu" >
                 <ul>
                     <li><a href="home.html">Home ♥</a></li>
@@ -368,18 +368,18 @@ body {
         </header>
         <div id="classicos">
             <h1>Filmes clássicos mais comentados:</h1>
-            <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/26/84/19873738.jpg">
+            <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/26/84/19873738.jpg" alt ="imagem1">
             <h2>O exorcista.</h2>
             <p>Em Georgetown, Washington, uma atriz vai gradativamente tomando consciência que a sua filha de doze anos está tendo um comportamento completamente assustador. Deste modo, ela pede ajuda a um padre, que também um psiquiatra, e este chega a conclusão de que a garota está possuída pelo demônio. Ele solicita então a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão.</p>
-            <img src="https://br.web.img3.acsta.net/medias/nmedia/18/97/53/08/20534291.jpg">
+            <img src="https://br.web.img3.acsta.net/medias/nmedia/18/97/53/08/20534291.jpg" alt ="imagem2">
             <h2>O Chamado.</h2>
             <p>Após a morte de Tomoko Oishi (Yuko Takeuchi), um parente, uma repórter, Reiko Asakawa (Nanako Matsushima), ouve histórias de um vídeo que mata quem o vê uma semana exatamente após assisti-lo. No início não dá importância aos rumores, mas ao descobrir que um amigo de Tomoko, que assistiu o vídeo, morreu exatamente uma semana depois ela começa a investigar. Após ver a fita estranhas coisas começam a acontecer e, assim, pede ajuda ao seu ex-marido, Ryuji Takayama (Hiroyuki Sanada), para tentar deter o relógio da morte, que começou a fazer tique-taque uma vez mais. Além disto ela toma conhecimento da existência de Sadako (Rie Inou), filha de uma famosa para-psicóloga submetida décadas antes a vários experimentos. Quando Yoichi (Rikiya Otaka), seu pequeno filho, assiste ao conteúdo da fita isto a lança em uma corrida contra o tempo para encontrar um meio de combater a sinistra maldição, que se manifestará em sete dias.</p>
-            <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/32/05/20091395.jpg">
+            <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/32/05/20091395.jpg" alt ="imagem3">
             <h2>Possuídos.</h2>
             <p>Após a execução de um serial killer, John Hobbes (Denzel Washington), um detetive, acredita que parte dos seus problemas terminaram, mas logo repara que pessoas na rua cantam a mesma melodia que o criminoso cantou na câmara de gás. Gradativamente o policial conclui que todos estavam possuídos por Azazel, um anjo amaldiçoado que não tem forma mas que com um simples toque consegue penetrar em quase todas as pessoas. Quando Hobbes é forçado a matar um professor, que estava possuído por Azazel, fica claro que ele precisa proteger as pessoas desta entidade demoníaca.</p>
-            <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/29/47/20028669.jpg">
+            <img src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/87/29/47/20028669.jpg" alt ="imagem4">
             <h2>Uma noite alucinante.</h2>
-            <p>Cinco estudantes da Universidade de Michigan decidem passar um final de semana em uma casa isolada. Lá eles encontram o livro dos mortos, um documento que data da época da Babilônia e que está relacionado ao livro dos mortos egípcio. Enquanto vasculham a casa os amigos gravam em fita alguns encantamentos demoníacos, escritos no livro. A partir de então eles são possuídos por espiritos, um a um. O primeiro alvo é Cheryl (Ellen Sandweiss), brutalmente estuprada pelas forças do mal. Ash (Bruce Campbell), seu irmão, resolve levá-la a uma cidade próxima, mas descobre que a única ponte que leva ao local está destruída. Logo a transformação de Cheryl em demônio é concluída, resultando em seu ataque aos amigos</p>
+            <p>Cinco estudantes da Universidade de Michigan decidem passar um final de semana em uma casa isolada. Lá eles encontram o livro dos mortos, um documento que data da época da Babilônia e que está relacionado ao livro dos mortos egípcio. Enquanto vasculham a casa os amigos gravam em fita alguns encantamentos demoníacos, escritos no livro. A partir de então eles são possuídos por espiritos, um a um. O primeiro alvo é Cheryl (Ellen Sandweiss), brutalmente estuprada pelas forças do mal. Ash (Bruce Campbell), seu irmão, resolve levá-la a uma cidade próxima, mas descobre que a única ponte que leva ao local está destruída. Logo a transformação de Cheryl em demônio é concluída, resultando em seu ataque aos amigos.</p>
         </div>
         <footer>
             <div id="footer_content">
