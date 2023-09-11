@@ -842,3 +842,202 @@ body {
 #footer_content ul li a:hover{
     color:#f1f1f1;
 }
+
+!!! REVIEW !!! html
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Amantes De Terror</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet"  type="text/css" href="review.css">
+        <link rel="stylesheet"  type="text/css" href="reset.css">
+     </head>
+     <body>
+        <header>
+            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "imagem1"> 
+            <h1>Seja bem vindo ao Amantes de Terror!</h1>
+            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "imagem2">
+            <nav id="menu" >
+                <ul>
+                    <li><a href="home.html">Home ♥</a></li>
+                    <li><a href="filmes-destaque.html">Filmes em destaque</a></li>
+                    <li><a href="filmes-classicos.html">Filmes clássicos</a></li>
+                    <li><a href="lancamentos.html">Lançamentos</a></li>
+                    <li><a href="series.html">Séries</a></li>
+                    <li><a href="review.html">Faça uma review</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div class="container">
+            <h1>Compartilhe sua opinião com a comunidade!</h1>
+            <!--<div class="custom-checkbox">
+            <input type="checkbox" id="estrela" value="1">
+            <input type="checkbox" id="estrela" value="2">
+            <input type="checkbox" id="estrela" value="3">
+            <input type="checkbox" id="estrela" value="4">
+            <input type="checkbox" id="estrela" value="5">
+            </div> -->
+            <div class="filmeserie">
+            <Label>Nome do filme/série:</Label>
+            <input type="text" name="nome" id="n">
+            </div>
+            <div class="review"
+            <label>Faça sua review:</label>
+            <input type="text" name="review" id="r">
+            </div>
+            <input type="submit" value="Enviar">
+        </div>
+      </form>
+      </body>
+      <footer>
+        <div id="footer_content">
+        <ul>
+            <h1>Nos siga nas redes sociais:</h3>
+            <li><a href="#">Twitter</a></li>
+            <li><a href="#">Instagram</a></li>
+            <li><a href="#">Facebook</a></li>
+        </ul>
+        </div>
+        </footer>
+        </body>
+</html>
+
+!!! REVIEW !!! css
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  header{
+      width: 100%;
+      position: fixed;
+      top: 0;
+      left: 0;
+      padding: 5px;
+      background-color: #ff319c;
+      text-align: center;
+  }
+  img{
+      width: 50px;
+  }
+  img, header h1{
+      display: inline-block;
+  }
+  header h1 {
+      font-size: 45px;
+      color: #000000;
+  }
+.stars{
+    margin: 55px 10px 10px 0px;
+    padding: 80px;
+    font-size: 15px;
+    font-family: arial;
+}
+  
+#menu ul{
+      list-style-type: none;
+      text-align: right;
+      padding: 20px;
+  }
+#menu ul li{
+      display: inline;
+      padding: 10px;
+  }
+#menu ul li a{
+      display: inline-block;
+      font-size: 18px;
+      text-decoration: none;
+      font-family: arial;
+      color:black;
+  }
+#menu ul li a:hover{
+      color:#fcfcfc;
+      text-decoration: underline;
+      transition: .3s;
+  }
+#menu ul li:first-child a{
+      color:#ffdfe9;
+      text-align: left;
+  
+  }
+body {
+    height: fit-content;
+    position: relative;
+    background-color: #ffd8e1;
+}
+.container{
+    margin: 55px 10px 10px 0px;
+    padding: 80px;
+    font-size: 15px;
+    font-family: arial;
+}
+.container h1{
+    font-size: 35px;
+    margin: 20px 0px 20px 0px;
+    color: #ff0084;
+    width: 100%;      
+}
+.filmeserie{
+    display:grid;
+    font-size: 20px;
+}
+.filmeserie label{
+    display:grid;
+    font-size: 20px;
+    font-family: arial;
+}
+.filmeserie input{
+    margin: 15px;
+    width: 300px;
+    height: 80;
+}
+.review{
+    display:grid;
+    font-size: 20px;
+}
+.review label{
+    display:grid;
+    font-size: 20px;
+    font-family: arial;
+}
+.review input{
+    margin: 15px;
+    width: 300px;
+    height: 150px;
+}
+.container input[type="submit"]{
+    margin: 30px;
+    width: 70px;
+    height: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #000000;
+    background-color: #ff319c;
+    color: #f1f1f1;
+}
+#footer_content{
+    width: 100%;
+    position: absolute;
+    background-color: #ff0084;
+    font-family: arial;
+}
+#footer_content h1{
+    margin: 5px 10px 0px 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+#footer_content ul li {
+    margin: 0px 5px 5px 0px;
+    display: inline-block;
+    font-family: arial;
+    color:black;
+}
+#footer_content ul li a {
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color:black;
+}
+#footer_content ul li a:hover{
+    color:#f1f1f1;
+}
