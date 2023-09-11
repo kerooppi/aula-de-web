@@ -854,9 +854,9 @@ body {
      </head>
      <body>
         <header>
-            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "imagem1"> 
+            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "gif1"> 
             <h1>Seja bem vindo ao Amantes de Terror!</h1>
-            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "imagem2">
+            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "gif2">
             <nav id="menu" >
                 <ul>
                     <li><a href="home.html">Home ♥</a></li>
