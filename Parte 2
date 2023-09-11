@@ -6,24 +6,25 @@
         <link rel = "icon" type ="jpg"
         href="https://imagensemoldes.com.br/wp-content/uploads/2021/01/Desenho-de-Gato-Arte-Almofadas-Pet-1024x1024.jpg">
         <link rel="stylesheet" type="text/css" href="reset.css">
-        <link rel="stylesheet" type="text/css" href="position.css">
-        <link rel="stylesheet" type="text/css" href="position1.css">
+        <link rel="stylesheet" type="text/css" href="position2.css">
     </head>
+
     <header id="cabeçalho">
         <nav>
-        <a href="loja.html">Acessar nossa loja</a>
+        <a href="raças.html">TOP 6 raças</a>
         <a href="filmes.html">Filmes com protagonistas bigodudos</a>
         </nav>
     </header>
    
-        <header><h1>LOJA PARA GATOS</h1>
+    <header>
+        <h1>LOJA PARA GATOS</h1>
         <h2>Confira abaixo nossa linha de produtos para seu gatinho.</h2>
         <img src = "https://img.freepik.com/vetores-premium/conjunto-de-icones-de-pet-shop-acessorios-para-gatos-ilustracao-racao-brinquedos-tigela-coleira-produtos-para-pet-shop-ilustracao-vetorial-em-fundo-branco_257455-770.jpg" alt = "img produtos">
-        </header>
-    </head>
+    </header>
    
     <body>
         <div id="container">
+            
         <table border ="1">
             <thead><tr><th>PRODUTOS:</th><th>PREÇOS:</th></tr></thead>
             <tfoot>
@@ -45,98 +46,3 @@
    
     </body>
 </html>
-
-CSS LOJA
-
-*{
-    position: relative;
-    font-family: Georgia, serif;
-    font-size: 25px;
-    background-color: rgb(154, 177, 145);
-
-}
-
-#container {
-    display: flex;
-    font-family: Georgia, serif;
-    font-size: 25px;
-}
-/*Cor de fundo 
-Todas as fontes iguais*/
-
-
-header {
-    background-color: rgb(154, 177, 145);
-    font-size: 200%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-header h1{
-    margin-top: 2%;
-}
-header h1, h2{
-    
-    text-align:center;
-    font-weight:bold;
-}
-.container h1, h2{
-    text-align: center;
-}
-#cabeçalho{
-    display:flex;
-    justify-content: space-around;
-    background-color: rgb(53, 138, 50);
-    color:rgb(53, 138, 50);
-    align-items: center;
-    padding: 40px 20px;
-    font-size:18px;
-}
-
-#cabeçalho nav {
-    background-color: rgb(53, 138, 50);
-
-    display: flex;
-    align-items: center;
-}
-/*nav = menu link
-ajustar*/
-
-#cabeçalho nav a{
-    background-color: rgb(53, 138, 50);
-
-    margin: 0 10px;
-    color: black;
-    font-weight: bold;
-}
-/**/
-#cabeçalho nav a:hover{
-    color: white;
-}
-/**/
-
-#submenu {
-    display:flex;
-    justify-content: space-around;
-    background-color: rgb(53, 138, 50);
-    color:rgb(53, 138, 50);
-    align-items: center;
-    padding: 40px 20px;
-    font-size:18px;
-}
-
-footer{
-    border: 1px solid rgb(53, 138, 50);
-    background-color:rgb(53, 138, 50);
-    text-align: center; 
-    justify-content: space-around;
-    padding: 40px 20px;
-    font-size:18px;
-    font-weight:bold;
-}
-footer h2{
-    background-color:rgb(53, 138, 50);
-text-align: center;
-}
-
-
