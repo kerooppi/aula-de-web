@@ -879,11 +879,11 @@ body {
             </div> -->
             <div class="filmeserie">
             <Label>Nome do filme/série:</Label>
-            <input type="text" name="nome" id="n">
+            <textarea type="text" rows="10" cols="50"> </textarea>
             </div>
-            <div class="review"
+            <div class="review">
             <label>Faça sua review:</label>
-            <input type="text" name="review" id="r">
+            <textarea type="text" rows="10" cols="50"></textarea>
             </div>
             <input type="submit" value="Enviar">
         </div>
@@ -966,6 +966,7 @@ body {
     background-color: #ffd8e1;
 }
 .container{
+    height: 850px;
     margin: 55px 10px 10px 0px;
     padding: 80px;
     font-size: 15px;
@@ -986,10 +987,13 @@ body {
     font-size: 20px;
     font-family: arial;
 }
-.filmeserie input{
+.filmeserie textarea{
     margin: 15px;
-    width: 300px;
-    height: 80;
+    padding: 8px;
+    width: 500px;
+    height: 30px;
+    border-color: #c4c4c4;
+    border-radius: 8px;
 }
 .review{
     display:grid;
@@ -1000,20 +1004,28 @@ body {
     font-size: 20px;
     font-family: arial;
 }
-.review input{
+.review textarea{
+    display: flex;
+    text-align: start;
+    border-color: #c4c4c4;
+    border-radius: 8px;
+    padding: 8px;
     margin: 15px;
-    width: 300px;
-    height: 150px;
+    width: 500px;
+    height: 200px;
 }
 .container input[type="submit"]{
     margin: 30px;
     width: 70px;
     height: 30px;
-    border-style: solid;
+    border-style: none;
     border-radius: 15px;
-    border-color: #000000;
     background-color: #ff319c;
     color: #f1f1f1;
+}
+.container input[type="submit"]:hover{
+    background-color: #ff6db9;
+
 }
 #footer_content{
     width: 100%;
