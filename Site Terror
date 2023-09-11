@@ -1,49 +1,4 @@
-!!! HOME !!! html
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <title>Casa De Horrores</title>
-        <meta charset="utf-8">
-        <link rel="stylesheet"  type="text/css" href="home.css">
-        <link rel="stylesheet"  type="text/css" href="reset.css">
-     </head>
-     <body>
-        <header>
-            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "gif1"> 
-            <h1>Seja bem vindo à casa de horrores!</h1>
-            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "gif2">
-            <nav id="menu" >
-                <ul>
-                    <li><a href="home.html">Home ♥</a></li>
-                    <li><a href="filmes-destaque.html">Filmes em destaque</a></li>
-                    <li><a href="filmes-classicos.html">Filmes clássicos</a></li>
-                    <li><a href="lancamentos.html">Lançamentos</a></li>
-                    <li><a href="series.html">Séries</a></li>
-                    <li><a href="review.html">Faça uma review</a></li>
-                </ul>
-            </nav>
-        </header>
-        <div id="sobre_nos">
-        <h1>Sobre nós:</h1>
-        <h2>Olá, somos o Amantes de Terror!</h2>
-        <p>Nosso site tem o intuito de unir a comunidade dos fãs do gênero terror.</p>
-        <p>Aqui você irá encontrar: recomendações, reviews de outras pessoas e também poderá escrever as suas próprias reviews.</p>
-        <h3>Use o menu acima para encontrar o que procura.</h3>
-        <img src="https://64.media.tumblr.com/126bcd08d581ca5c038c1fc7b720c1a2/ff23addc54bdd2f5-30/s400x600/363b621cc5de2642323db775f51380b49682cc99.gifv" alt = "gif3">
-        </div>
-        <footer>
-            <div id="footer_content">
-            <ul>
-                <h1>Nos siga nas redes sociais:</h3>
-                <li><a href="#">Twitter</a></li>
-                <li><a href="#">Instagram</a></li>
-                <li><a href="#">Facebook</a></li>
-            </ul>
-            </div>
-            </footer>
-            </body>
-        </html>
-!!! HOME !!! css
+STYLE.CSS geral !!!
 *{
     margin: 0;
     padding: 0;
@@ -100,6 +55,81 @@ body {
       position: relative;
       background-color: #ffd8e1;
     }
+
+#footer_content{
+    width: 100%;
+    position: absolute;
+    background-color: #ff0084;
+    font-family: arial;
+}
+#footer_content h1{
+    margin: 5px 10px 0px 5px;
+    padding: 5px;
+    font-size: 20px;
+}
+#footer_content ul li {
+    margin: 0px 5px 5px 0px;
+    display: inline-block;
+    font-family: arial;
+    color:black;
+}
+#footer_content ul li a {
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color:black;
+}
+#footer_content ul li a:hover{
+    color:#f1f1f1;
+}
+
+!!! HOME !!! html
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Casa De Horrores</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet"  type="text/css" href="reset.css">
+        <link rel="stylesheet"  type="text/css" href="style.css">
+        <link rel="stylesheet"  type="text/css" href="home.css">
+     </head>
+     <body>
+        <header>
+            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "gif1"> 
+            <h1>Seja bem vindo à casa de horrores!</h1>
+            <img src="https://64.media.tumblr.com/1e36f18ebe5cfe925d7f1250a990de70/ce52e3783f8d4e7a-c5/s75x75_c1/12dbc0f780d4179b79ce6605e4842fa84a0296f3.gifv" alt = "gif2">
+            <nav id="menu" >
+                <ul>
+                    <li><a href="home.html">Home ♥</a></li>
+                    <li><a href="filmes-destaque.html">Filmes em destaque</a></li>
+                    <li><a href="filmes-classicos.html">Filmes clássicos</a></li>
+                    <li><a href="lancamentos.html">Lançamentos</a></li>
+                    <li><a href="series.html">Séries</a></li>
+                    <li><a href="review.html">Faça uma review</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="sobre_nos">
+        <h1>Sobre nós:</h1>
+        <h2>Olá, seja bem-vindo ao nosso site!</h2>
+        <p>Temos o intuito de unir a comunidade dos fãs do gênero terror.</p>
+        <p>Aqui você irá encontrar: recomendações, reviews de outras pessoas e também poderá escrever as suas próprias reviews.</p>
+        <h3>Use o menu acima para encontrar o que procura.</h3>
+        <img src="https://64.media.tumblr.com/126bcd08d581ca5c038c1fc7b720c1a2/ff23addc54bdd2f5-30/s400x600/363b621cc5de2642323db775f51380b49682cc99.gifv" alt = "gif3">
+        </div>
+        <footer>
+            <div id="footer_content">
+            <ul>
+                <h1>Nos siga nas redes sociais:</h3>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Instagram</a></li>
+                <li><a href="#">Facebook</a></li>
+            </ul>
+            </div>
+            </footer>
+            </body>
+        </html>
+!!! HOME !!! css
 #sobre_nos{
     margin: 10px 10px 10px 10px;
     padding: 150px;
@@ -131,32 +161,6 @@ body {
     border-radius: 25px;
     margin: 20px;
 }
-#footer_content{
-    width: 100%;
-    position: absolute;
-    background-color: #ff0084;
-    font-family: arial;
-}
-#footer_content h1{
-    margin: 5px 10px 0px 5px;
-    padding: 5px;
-    font-size: 20px;
-}
-#footer_content ul li {
-    margin: 0px 5px 5px 0px;
-    display: inline-block;
-    font-family: arial;
-    color:black;
-}
-#footer_content ul li a {
-    padding: 10px;
-    font-size: 15px;
-    text-decoration: none;
-    color:black;
-}
-#footer_content ul li a:hover{
-    color:#f1f1f1;
-}
 
 !!! FILMES-DESTAQUE !!! html
 <!DOCTYPE html>
@@ -164,8 +168,9 @@ body {
     <head>
         <title>Casa De Horrores</title>
         <meta charset="utf-8">
-        <link rel="stylesheet"  type="text/css" href="filmes-destaque.css">
         <link rel="stylesheet"  type="text/css" href="reset.css">
+        <link rel="stylesheet"  type="text/css" href="style.css">
+        <link rel="stylesheet"  type="text/css" href="filmes-destaque.css">
 
     </head>
     <body>
@@ -220,62 +225,6 @@ body {
 </html>
 
 !!! FILMES-DESTAQUE !!! css
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  header{
-      width: 100%;
-      position: fixed;
-      top: 0;
-      left: 0;
-      padding: 5px;
-      background-color: #ff319c;
-      text-align: center;
-  }
-  img{
-      width: 50px;
-  }
-  img, header h1{
-      display: inline-block;
-  }
-  header h1 {
-      font-size: 45px;
-      color: #000000;
-  }
-  
-  
-#menu ul{
-      list-style-type: none;
-      text-align: right;
-      padding: 20px;
-  }
-  #menu ul li{
-      display: inline;
-      padding: 10px;
-  }
-  #menu ul li a{
-      display: inline-block;
-      font-size: 18px;
-      text-decoration: none;
-      font-family: arial;
-      color:black;
-  }
-  #menu ul li a:hover{
-      color:#fcfcfc;
-      text-decoration: underline;
-      transition: .3s;
-  }
-  #menu ul li:first-child a{
-      color:#ffdfe9;
-      text-align: left;
-  
-  }
-body {
-      position: relative;
-      background-color: #ffd8e1;
-    }
 #destaque{
     margin: 55px 10px 10px 0px;
     padding: 80px;
@@ -314,41 +263,15 @@ body {
       color:#fcfcfc;
   }
 
-#footer_content{
-    width: 100%;
-    position: absolute;
-    background-color: #ff0084;
-    font-family: arial;
-}
-#footer_content h1{
-    margin: 5px 10px 0px 5px;
-    padding: 5px;
-    font-size: 20px;
-}
-#footer_content ul li {
-    margin: 0px 5px 5px 0px;
-    display: inline-block;
-    font-family: arial;
-    color:black;
-}
-#footer_content ul li a {
-    padding: 10px;
-    font-size: 15px;
-    text-decoration: none;
-    color:black;
-}
-#footer_content ul li a:hover{
-    color:#f1f1f1;
-}
-
 !!! FILMES-CLASSICOS !!! html
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
         <title>Casa De Horrores</title>
         <meta charset="utf-8">
-        <link rel="stylesheet"  type="text/css" href="filmes-classicos.css">
         <link rel="stylesheet"  type="text/css" href="reset.css">
+        <link rel="stylesheet"  type="text/css" href="style.css">
+        <link rel="stylesheet"  type="text/css" href="filmes-classicos.css">
      </head>
      <body>
         <header>
@@ -395,62 +318,6 @@ body {
     </html>
 
 !!! FILMES-CLASSICOS !!! css
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  header{
-      width: 100%;
-      position: fixed;
-      top: 0;
-      left: 0;
-      padding: 5px;
-      background-color: #ff319c;
-      text-align: center;
-  }
-  img{
-      width: 50px;
-  }
-  img, header h1{
-      display: inline-block;
-  }
-  header h1 {
-      font-size: 45px;
-      color: #000000;
-  }
-  
-  
-  #menu ul{
-      list-style-type: none;
-      text-align: right;
-      padding: 20px;
-  }
-  #menu ul li{
-      display: inline;
-      padding: 10px;
-  }
-  #menu ul li a{
-      display: inline-block;
-      font-size: 18px;
-      text-decoration: none;
-      font-family: arial;
-      color:black;
-  }
-  #menu ul li a:hover{
-      color:#fcfcfc;
-      text-decoration: underline;
-      transition: .3s;
-  }
-  #menu ul li:first-child a{
-      color:#ffdfe9;
-      text-align: left;
-  
-  }
-body {
-      position: relative;
-      background-color: #ffd8e1;
-}
 #classicos{
     margin: 55px 10px 10px 0px;
     padding: 80px;
@@ -476,41 +343,16 @@ body {
 #classicos img{
     width: 150px;
 }
-#footer_content{
-    width: 100%;
-    position: absolute;
-    background-color: #ff0084;
-    font-family: arial;
-}
-#footer_content h1{
-    margin: 5px 10px 0px 5px;
-    padding: 5px;
-    font-size: 20px;
-}
-#footer_content ul li {
-    margin: 0px 5px 5px 0px;
-    display: inline-block;
-    font-family: arial;
-    color:black;
-}
-#footer_content ul li a {
-    padding: 10px;
-    font-size: 15px;
-    text-decoration: none;
-    color:black;
-}
-#footer_content ul li a:hover{
-    color:#f1f1f1;
-}
 
 !!! SERIES !!! html
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
     <head>
         <title>Casa De Horrores</title>
         <meta charset="utf-8">
-        <link rel="stylesheet"  type="text/css" href="series.css">
         <link rel="stylesheet"  type="text/css" href="reset.css">
+        <link rel="stylesheet"  type="text/css" href="style.css">
+        <link rel="stylesheet"  type="text/css" href="series.css">
 
     </head>
     <body>
@@ -531,20 +373,21 @@ body {
     </header>
     <div id="destaque">
     <h1>Séries em destaque: </h1>
+    <div class="serie">
     <h2>Hannibal</h2>
     <iframe src="https://www.youtube.com/embed/4N8CQ-T6iUs"></iframe>
     <p>Will Graham é um investigador do FBI que tem o talento de se inserir nas cenas dos crimes e visualizar exatamente o que aconteceu. Tal capacidade ajuda a solucionar muitos casos, mas também exige muito dele, obrigando-o a consultar o psiquiatra Hannibal Lecter. Mal sabe Graham, que o dr. Lecter não é um psiquiatra comum.</p>
-        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer uma review.</a>
-
+        <a href="review.html">Fazer uma review.</a>
+    </div>
     <h2>O Nevoeiro</h2>
     <iframe src="https://www.youtube.com/embed/bRNajdYu6pQ"></iframe>
     <p> Após uma violenta tempestade devastar a cidade de Maine, David Drayton (Thomas Jane) e Billy (Nathan Gamble), seu filho de 8 anos, correm rumo ao supermercado, temendo que os suprimentos se esgotem. Porém um estranho nevoeiro toma conta da cidade, o que faz com que David, Billy e outras pessoas fiquem presas no supermercado. Logo David descobre que há algo de sobrenatural envolvido e que, caso deixem o local, isto pode ser fatal.</p>
-        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer uma review.</a>
+        <a href="review.html">Fazer uma review.</a>
 
     <h2>Scream</h2>
     <iframe src="https://www.youtube.com/embed/WUejkrfF6u0"></iframe>
     <p>Depois de um incidente de cyber-bullying resultar em um assassinato brutal, a violência reacende a memória de uma série de assassinatos que ocorreram no passado em Lakewood, que intrigaram alguns e talvez tenham inspirado um novo serial killer. Um grupo de adolescentes, com dois velhos amigos tentando se reconectarem, se tornam amantes, inimigos, suspeitos, alvos e vítimas de um assassino que está à procura de sangue.</p>
-        <a href="file:///C:/Users/User/Desktop/MINHA%20COISAS/comentario.html">Fazer uma review.</a>
+        <a href="review.html">Fazer uma review.</a>
     </div>
     <footer>
         <div id="footer_content">
@@ -560,62 +403,6 @@ body {
 </html>
 
 !!! SERIES !!! css
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-header{
-    width: 100%;
-    position: fixed;
-    top: 0;
-    left: 0;
-    padding: 5px;
-    background-color: #ff319c;
-    text-align: center;
-}
-img{
-      width: 50px;
-}
-img, header h1{
-    display: inline-block;
-}
-header h1 {
-    font-size: 45px;
-    color: #000000;
-}
-  
-  
-#menu ul{
-    list-style-type: none;
-    text-align: right;
-    padding: 20px;
-}
-#menu ul li{
-    display: inline;
-    padding: 10px;
-}
-#menu ul li a{
-    display: inline-block;
-    font-size: 18px;
-    text-decoration: none;
-    font-family: arial;
-    color:black;
-}
-#menu ul li a:hover{
-    color:#fcfcfc;
-    text-decoration: underline;
-    transition: .3s;
-}
-#menu ul li:first-child a{
-    color:#ffdfe9;
-    text-align: left;
-  
-}
-body {
-    position: relative;
-    background-color: #ffd8e1;
-}
 #destaque{
     margin: 55px 10px 10px 0px;
     padding: 80px;
@@ -653,41 +440,15 @@ body {
       color:#fcfcfc;
   }
 
-#footer_content{
-    width: 100%;
-    position: absolute;
-    background-color: #ff0084;
-    font-family: arial;
-}
-#footer_content h1{
-    margin: 5px 10px 0px 5px;
-    padding: 5px;
-    font-size: 20px;
-}
-#footer_content ul li {
-    margin: 0px 5px 5px 0px;
-    display: inline-block;
-    font-family: arial;
-    color:black;
-}
-#footer_content ul li a {
-    padding: 10px;
-    font-size: 15px;
-    text-decoration: none;
-    color:black;
-}
-#footer_content ul li a:hover{
-    color:#f1f1f1;
-}
-
 !!! LANCAMENTOS !!! html
 <!DOCTYPE html>
 <html lang="pt-br">
     <head>
         <title>Casa De Horrores</title>
         <meta charset="utf-8">
-        <link rel="stylesheet"  type="text/css" href="lancamentos.css">
         <link rel="stylesheet"  type="text/css" href="reset.css">
+        <link rel="stylesheet"  type="text/css" href="style.css">
+        <link rel="stylesheet"  type="text/css" href="lancamentos.css">
      </head>
      <body>
         <header>
@@ -735,62 +496,6 @@ body {
     </html>
 
 !!! LANCAMENTOS !!! css
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  header{
-      width: 100%;
-      position: fixed;
-      top: 0;
-      left: 0;
-      padding: 5px;
-      background-color: #ff319c;
-      text-align: center;
-  }
-  img{
-      width: 50px;
-  }
-  img, header h1{
-      display: inline-block;
-  }
-  header h1 {
-      font-size: 45px;
-      color: #000000;
-  }
-  
-  
-  #menu ul{
-      list-style-type: none;
-      text-align: right;
-      padding: 20px;
-  }
-  #menu ul li{
-      display: inline;
-      padding: 10px;
-  }
-  #menu ul li a{
-      display: inline-block;
-      font-size: 18px;
-      text-decoration: none;
-      font-family: arial;
-      color:black;
-  }
-  #menu ul li a:hover{
-      color:#fcfcfc;
-      text-decoration: underline;
-      transition: .3s;
-  }
-  #menu ul li:first-child a{
-      color:#ffdfe9;
-      text-align: left;
-  
-  }
-body {
-      position: relative;
-      background-color: #ffd8e1;
-}
 #lancamentos{
     margin: 55px 10px 10px 0px;
     padding: 80px;
@@ -816,32 +521,6 @@ body {
 #lancamentos img{
     width: 150px;
 }
-#footer_content{
-    width: 100%;
-    position: absolute;
-    background-color: #ff0084;
-    font-family: arial;
-}
-#footer_content h1{
-    margin: 5px 10px 0px 5px;
-    padding: 5px;
-    font-size: 20px;
-}
-#footer_content ul li {
-    margin: 0px 5px 5px 0px;
-    display: inline-block;
-    font-family: arial;
-    color:black;
-}
-#footer_content ul li a {
-    padding: 10px;
-    font-size: 15px;
-    text-decoration: none;
-    color:black;
-}
-#footer_content ul li a:hover{
-    color:#f1f1f1;
-}
 
 !!! REVIEW !!! html
 <!DOCTYPE html>
@@ -849,8 +528,9 @@ body {
     <head>
         <title>Casa De Horrores</title>
         <meta charset="utf-8">
-        <link rel="stylesheet"  type="text/css" href="review.css">
         <link rel="stylesheet"  type="text/css" href="reset.css">
+        <link rel="stylesheet"  type="text/css" href="style.css">
+        <link rel="stylesheet"  type="text/css" href="review.css">
      </head>
      <body>
         <header>
@@ -903,68 +583,6 @@ body {
 </html>
 
 !!! REVIEW !!! css
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  header{
-      width: 100%;
-      position: fixed;
-      top: 0;
-      left: 0;
-      padding: 5px;
-      background-color: #ff319c;
-      text-align: center;
-  }
-  img{
-      width: 50px;
-  }
-  img, header h1{
-      display: inline-block;
-  }
-  header h1 {
-      font-size: 45px;
-      color: #000000;
-  }
-.stars{
-    margin: 55px 10px 10px 0px;
-    padding: 80px;
-    font-size: 15px;
-    font-family: arial;
-}
-  
-#menu ul{
-      list-style-type: none;
-      text-align: right;
-      padding: 20px;
-  }
-#menu ul li{
-      display: inline;
-      padding: 10px;
-  }
-#menu ul li a{
-      display: inline-block;
-      font-size: 18px;
-      text-decoration: none;
-      font-family: arial;
-      color:black;
-  }
-#menu ul li a:hover{
-      color:#fcfcfc;
-      text-decoration: underline;
-      transition: .3s;
-  }
-#menu ul li:first-child a{
-      color:#ffdfe9;
-      text-align: left;
-  
-  }
-body {
-    height: fit-content;
-    position: relative;
-    background-color: #ffd8e1;
-}
 .container{
     height: 850px;
     margin: 55px 10px 10px 0px;
@@ -1026,30 +644,4 @@ body {
 .container input[type="submit"]:hover{
     background-color: #ff6db9;
 
-}
-#footer_content{
-    width: 100%;
-    position: absolute;
-    background-color: #ff0084;
-    font-family: arial;
-}
-#footer_content h1{
-    margin: 5px 10px 0px 5px;
-    padding: 5px;
-    font-size: 20px;
-}
-#footer_content ul li {
-    margin: 0px 5px 5px 0px;
-    display: inline-block;
-    font-family: arial;
-    color:black;
-}
-#footer_content ul li a {
-    padding: 10px;
-    font-size: 15px;
-    text-decoration: none;
-    color:black;
-}
-#footer_content ul li a:hover{
-    color:#f1f1f1;
 }
